@@ -1,0 +1,166 @@
+well_name,t,r,sec,x1_4,x1_4_1_4,permit_number,depth,casing_ht,date_comp,casing_diam,well_number,lat,long,comments_2,concerns_access_safety_etc,condition_of_well,formation,production_interval_type,county,monitor_category
+66Mountain well,20,60,11,SW,SE,NA,NA,4.4,NA,2,20-60-11cdd2,44.2775,-105.515,NA,NA,casing not plumb,NA,NA,goshen,lagrange
+Antelope Valley No.3,49,72,13,SW,NE,NA,NA,NA,NA,NA,49-72-13caa,44.2925,-105.43694,Currently measured by the Water Guy,NA,NA,NA,NA,campbell,gillette
+Bill #6,37,70,10,NW,SW,51262,268,NA,29298,5,37-70-10cbb,43.97111,-105.707222,GPS coordinate scaled from ArcReader on 2/16/2016. Coordinate needs to be corrected in GIS well layer.,In right of way.,Satisfactory,NA,110-568 (ft-bls),campbell,gillette
+BTP 4975#8-32,49,75,32,NE,NW,NA,NA,NA,NA,NA,49-75-32abd,41.68061,-104.18935,Currently not being monitored,?,?,NA,NA,campbell,gillette
+Campbell Co. Airport,51,72,32,SE,SE,NA,1130,NA,30893,7,51-72-32ddd,44.81511111111111,-104.89566666666667,NA,NA,NA,NA,NA,campbell,gillette
+CAMPLEX #1,50,72,25,NE,SW,78118,1400,1.4,-,10,50-72-25acb,44.31647222222222,-104.31425,NA,NA,NA,Ft. Union,NA,campbell,gillette
+CBM-MON-1 (Saunders),49,74,36,SE,SE,111591,1234,?,36095,5.5,49-74-36ddc01,41.71005,-104.16117,"Plugged and abandoned October 7, 2020 by SEO.","None, side of road",Satisfactory,Wyodak,1160-1210 (ft_bls),campbell,gillette
+CBM-MON-1G (Saunders),49,74,36,SE,SE,NA,1234,?,36095,5.5,49-74-36ddc03,44.22167,-105.46472,"Plugged and abandoned October 7, 2020 by SEO.","None, side of road",Satisfactory,Wyodak,1160-1210 (ft_bls),campbell,gillette
+CBM-MON-1W (Saunders),49,74,36,SE,SE,NA,1100,0.9,36325,5.5,49-74-36ddc02,43.193161,-105.259431,Needs concrete floor and solor panel,"None, side of road",Satisfactory,Wasatch,?,campbell,gillette
+CBM-MON-2 (Bennor),49,73,3,SW,NW,111592,905,?,36074,5.5,49-73-03cbd01,44.17944,-105.89556,NA,"None, side of road",Satisfactory,Wyodak,862-905 (ft-bls),campbell,gillette
+CBM-MON-2G (Bennor),49,73,3,SW,NW,NA,905,?,36074,5.5,49-73-03cbd03,44.35,-105.5325,NA,"None, side of road",Satisfactory,Wyodak,862-905 (ft-bls),campbell,gillette
+CBM-MON-2W (Bennor),49,73,3,SW,NW,NA,750,0.71,36080,5.5,49-73-03cbd02,44.285556,-105.457778,NA,"None, side of road",Satisfactory,Wasatch,?,campbell,gillette
+CBM-MON-3C (Tripp),48,73,36,NW,SW,111594,905,2.1,36087,5.5,48-73-36bca01,44.171944,-105.695833,Lowest recent measurement = 602.3-ft-bls,Gas Press may return,Satisfactory,Wyodak,854-905 (ft_bls),campbell,gillette
+CBM-MON-3G (Tripp),48,73,36,NW,SW,NA,905,2.1,36087,5.5,48-73-36bca03,44.171944,-105.695833,Instrument measuring gas pressure may not be functional. Do we replace this?,Gas Press may return,Satisfactory,Wyodak,854-905 (ft_bls),campbell,gillette
+CBM-MON-3W (Tripp),48,73,36,NW,SW,NA,700,0.5,36091,5.5,48-73-36bca02,44.1725,-105.68792,NA,NA,Satisfactory,Wasatch,?,campbell,gillette
+CBM-MON-4 (Davis),47,73,16,SW,NW,111595,1219,?,36061,5.5,47-73-16cba01,44.247567,-105.631989,NA,NA,Satisfactory,Wyodak,1186-1219 (ft_bls),campbell,gillette
+CBM-MON-4G (Davis),47,73,16,SW,NW,NA,1219,?,36067,5.5,47-73-16cba03,44.247567,-105.631989,NA,NA,Satisfactory,Wyodak,1186-1219 (ft_bls),campbell,gillette
+CBM-MON-4W (Davis),47,73,16,SW,NW,NA,910,0.48,36067,5.5,47-73-16cba02,44.247567,-105.631989,NA,NA,Satisfactory,Wasatch,?,campbell,gillette
+CBM-MON-5 (Barrett),46,74,12,SW,SW,118343,1488,?,36424,5.5,46-74-12ccc01,44.09603,-105.58278,Data suggests that water levels have fallen below the pressure transducer. GPS coodinate collected by hand held device set to NAD 1983. GPS coordinate needs to be updated in GIS wells layer.,NA,Satisfactory,Wyodak,NA,campbell,gillette
+CBM-MON-5G (Barrett),46,74,12,SW,SW,NA,1488,?,36426,5.5,46-74-12ccc03,44.09603,-105.58278,GPS coodinate collected by hand held device set to NAD 1983. GPS coordinate needs to be updated in GIS wells layer.,NA,Satisfactory,Wyodak,NA,campbell,gillette
+CBM-MON-5W (Barrett),46,74,12,SW,SW,118342,1305,?,36426,5.5,46-74-12ccc02,44.09603,-105.58278,GPS coodinate collected by hand held device set to NAD 1983. GPS coordinate needs to be updated in GIS wells layer.,NA,Satisfactory,Wasatch,NA,campbell,gillette
+CBM-MON-6 (Murray),45,74,36,SE,NE,111597,1220,2.2000000000000002,36117,5.5,45-74-36dac,44.04997,-105.64997,NA,Gas Press may return,Satisfactory,Wyodak,1050-1090 (ft_bls),campbell,gillette
+CBM-MON-6G (Murray),45,74,36,SE,NE,NA,1220,2.2000000000000002,36117,5.5,45-74-36dac02,44.04997,-105.64997,Instrument measuring gas pressure may not be functional. Do we replace this?,Gas Press may return,Satisfactory,Wyodak,1050-1090 (ft_bls),campbell,gillette
+CBM-MON-7W (Stuart),43,72,11,NE,NE,129035,491,NA,NA,NA,43-72-11aaa,44.04997,-105.64997,"GPS coordinate scaled from ArcReader on 2/16/2016. Coordinate needs to be corrected in GIS well layer. WSEO owns well bore (assigned by Barrett Resources Corporation) and a May 31, 2000 access agreement seems to be in place.",NA,Satisfactory,Wasatch,471-491 (ft_bls),campbell,gillette
+CC Gross,14,60,5,NW,SW,NA,115,MP 3.35,25353,18?,14-60-5 bcb,41.68028,-104.12917,NA,"Owners is okay with access, but no agreement in place",NA,"High Plains, White River",NA,laramie,laramie_co
+CC Meiers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44.32639,-105.48722,NA,NA,NA,NA,NA,goshen,lagrange
+CCMOW-2 (Madison),53,60,16,SE,NW,85420,1539,UK,680918400,5.5,53-60-16dba01,42.20778,-104.96611,Temporary Use Permit to SEO expires 11/5/2021,NA,Acceptable,madison,open hole from 1469'-1539',crook,madison
+CCMOW-2A (Minnelusa),53,60,16,SE,NW,85421,1300,UK,681696000,5.5,53-60-16dba02,42.14444,-105.00111,Temporary Use Permit to SEO expires 11/5/2021,NA,Acceptable,minnelusa,open hole from 1128'-1300',crook,madison
+CCMOW-5 (Madison),53,61,32,SE,SE,85805,867,0.5,682560000,5.5,53-61-32ddd02,42.10361,-105.04556,NA,NA,Acceptable,madison,open hole from 830'-867',crook,madison
+CCMOW-5A (Minnelusa),53,61,32,SE,SE,85806,580,0.3,683078400,5.5,53-61-32ddd01,42.07306,-104.98306,NA,NA,Acceptable,minnelusa,open hole from 460'-580',crook,madison
+CCMOW-6 (Madison),49,62,36,SW,NW,95317,1283,0.6,772243200,5.5,49-62-36cbc01,42.045,-105.04472,Temporary Use Permit to SEO expires 10/1/2026 ($100/year) (00554),NA,Acceptable,madison,open hole from 780'-1283',crook,madison
+CCMOW-6A (Minnelusa),49,62,36,SW,NW,96807,500,0.9,772675200,5.5,49-62-36cbc02,42.0025,-105.02667,Temporary Use Permit to SEO expires 10/1/2026 ($100/year) (oo554),NA,Acceptable,minnelusa,open hole from 322'-500',crook,madison
+CCMOW-7 (Madison),50,63,11,SW,NE,95802,1480,1.2,774921600,5.5,50-63-11cda,42.45852777777778,-104.16380555555556,NA,NA,Acceptable,madison,open hole from 1384'-1480',crook,madison
+CCMOW-8,50,62,16,SW,SW,95320,812,0.8,774921600,5.5,50-62-16ccb,42.49216666666667,-104.20325,Temporary Use Permit received preliminary approval 2/25/22 (00303),NA,Acceptable,madison,open hole from 680'-812',crook,madison
+CMeiers,20,60,21,SE,SE,NA,NA,1.5,NA,20,20-60-21ddd,44.22889,-105.45056,NA,NA,damaged casing,NA,NA,goshen,lagrange
+Cole 41A  Minnelusa,56,67,28,NE,NE,63295,2240,1.2,356745600,4.5(0-2230); 7(0-94'),56-067-28aab,42.59677777777778,-104.20305555555557,NA,"11-8-2016: Spoke with Mark Busenitz.  He was not very comfortable with signing the access form.  I left a copy with him.  He verbally said it would be ok this time to go measure the water level. He mentioned several folks as ""my friends at DEQ"" which seemed somewhat in jest.  I have no idea why we'd even bother...  George Moser",Acceptable,minnelusa,1990'-2070' perf interval,crook,madison
+Collins No. 1,50,71,19,SE,SW,NA,NA,NA,NA,NA,50-71-19dcb,42.28167,-105.18361,NA,NA,NA,NA,NA,campbell,gillette
+Cottonwood Creek No. 1,27,69,25,SE,NE,NA,40,0.9,NA,4,27-69-25dad,44.44528,-105.57278,ant hill around casing,NA,NA,NA,NA,platte,platte_co
+Cottonwood Creek No. 3,27,69,25,SE,NE,NA,40,0.9,NA,4,27-69-25dad,44.44528,-105.57278,ant hill around casing,NA,NA,NA,NA,platte,platte_co
+Crestview No. 1,49,72,13,NW,NE,NA,1550,1.5,29838,8.625,49-72-13bab,42.28167,-105.18361,NA,NA,NA,NA,NA,campbell,gillette
+Earl Rutherford,26,68,12,SW,NW,NA,320,0,NA,uk,26-68-12cbd,42.16556,-104.91778,NA,NA,NA,NA,NA,platte,platte_co
+Ed Preuit,24,67,21,NE,NE,NA,uk,1.4,NA,uk,24-67-21aab,44.24639,-105.56111,NA,NA,NA,NA,NA,platte,platte_co
+Ed Wilhelm,25,67,19,SE,SE,NA,760,1.5,NA,uk,25-067-19dda,41.19555555555555,-104.80833333333334,In-Situ LevelTroll and BaroTroll,NA,NA,NA,NA,platte,platte_co
+Elmer Glantz,13,60,5,SW,SW,NA,100,2.8,16589,4,13-60-5 ccb,41.16777777777777,-104.59805555555555,NA,Access agreement with Tyler Kimzey.,"See Concerns. Aug 24/25, 2016. Plan is to recomplete with new, smaller casing, and try to back fill remaining","High Plains, White River","""Clay joint"" 21'-100'",laramie,laramie_co
+ETSI O-2 LAKOTA,36,62,28,NE,NW,24282,NA,NA,NA,NA,36-062-28ab02,41.69016,-104.16325,NA,NA,Not Acceptable,Lakota,NA,niobrara,madison
+ETSI T-1 MINNELUSA,NA,NA,NA,NW,SE,24279,NA,NA,NA,NA,NA,44.44528,-105.57278,Location picked from air image - not collected  GM,NA,Not Acceptable,Minnelusa,NA,niobrara,madison
+ETSI T-2 Madison (ETSI O-1),36,62,28,NE,NW,24283,3269',0.85,147225600,"8"" PVC and 4"" Steel",36-62-28ab01,44.38917,-105.53333,See SC's for both referenced permits for more information on formation/well production zones,Swampy field - walk if wet/recent rain,Acceptable,madison,madison - potentially minnelusa in addition - per original test well permit stating interest in testing both formations; possibly Cambrian sand and schist,niobrara,madison
+F. Sanders,20,61,24,SW,SE,NA,NA,1,NA,18,20-61-24cdd,44.19833,-105.60111,NA,large open casing,NA,NA,NA,goshen,lagrange
+Fire Station #3,14,66,34,NW,SE,NA,412,2.7,35780,6,14-66-36 bd,41.63611,-104.17306,NA,NA,Good,"High Plains, Ogallala and/or Arikaree",0.05 slot from 330'-370'; 0.04 slot from 370'-380',laramie,laramie_co
+Fornstrom FoxHills,16,60,32,SE,SW,NA,964,1.5,42236,4,16-60-32 dc 01,41.233333333333334,-105.00222222222222,NA,Access agreement with James Fornstrom in place.,Good,Fox Hills,NA,laramie,laramie_co
+Fornstrom WhiteRiver,16,60,32,SE,SW,NA,602,1.5,42236,4,16-60-32 dc 02,42.738889,-105.611667,NA,Access agreement with James Fornstrom in place.,Good,"White River, Chadron",NA,laramie,laramie_co
+Fox Park No. 1,50,71,31,NE,NW,NA,1775,1,28541,8.625,50-71-31aba,44.23222,-105.46361,NA,NA,NA,NA,NA,campbell,gillette
+G-MON-1 (Sports Bar),50,72,16,NW,NW,95451,1640,1.8,34589,7.875,50-72-16bbb,43.82861,-105.68889,NA,Cross barbed wire fence to vacant lot.,Satisfactory,Ft. Union,980-1604 (ft_bls),campbell,gillette
+G-MON-2 (Warlow),50,72,24,NW,SW,95452,1999,1.8,34589,7.875,50-72-24bcc,43.720139,-105.465328,Water level is currently monitored with a pressure transducer.,Cross barbed wire fence to vacant lot.,Satisfactory,Ft. Union,1160-1810 (ft_bls),campbell,gillette
+G-MON-3 (Doud Well),49,72,5,SW,SW,95453,1936,0.8,34557,7.875,49-72-5ccc,41.21055555555556,-104.11944444444444,NA,In lay down yard behind UPS.,Satisfactory,Ft. Union,1145-1324 (fr_bls),campbell,gillette
+G-MON-4 (Old Fair Ground),50,72,21,SE,SE,95665,2371,1.5,34589,5.5,50-72-21dda,0,0,Installed a pressure transducer during the last field visit. The float/weight system kept getting hung up.,In a city park.,Satisfactory,Ft. Union,940-2200 (ft_bls),campbell,gillette
+G-MON-5 (Jail),50,72,28,SE,SE,95666,1799,1.4,34558,5.5,50-72-28ddb,44.58197222222223,-104.05705555555555,NA,Lock up area behind jail.,Satisfactory,Ft. Union,1120-1770 (ft_bls),campbell,gillette
+G-MON-6 (Sleepy Hollow),49,72,13,NE,SE,NA,NA,NA,NA,NA,49-72-13ada,44.58197222222223,-104.05705555555555,NA,NA,NA,Ft. Union,NA,campbell,gillette
+G-MON-7 (Maki),50,72,11,SW,NW,95667,NA,NA,NA,NA,50-72-11cba,44.53247222222222,-104.19469444444445,Plugged and abandoned,NA,NA,NA,NA,campbell,gillette
+G-MON-8 (Bell Road),49,73,26,NE,NW,96921,2309,1,34594,5.5,49-73-26abc,44.53247222222222,-104.19469444444445,NA,NA,Satisfactory,Ft. Union,1595-2240 (ft_bls),campbell,gillette
+Gillette H-13,50,72,21,NE,NW,NA,NA,NA,NA,NA,50-072-21aba0,42.24528,-104.96278,NA,NA,NA,NA,NA,campbell,gillette
+Goshen County #2,28,61,7,NE,NW,44515,220,1.6,Sept-1978,5,28-61-aba01,41.394999999999996,-104.09194444444444,"GPS puts location in T29, R61 sec 31, SWSE, Permit # 44515",NA,acceptable,alluvial/high plains,180'-220' perf interval - alluvial/valley fill - likely into arikaree (high plains) too,goshen,prairie_center
+Goshen County No. 1,29,61,23,NE,NW,44514,300,1,Sept-1978,5,29-061-23abb,41.016666666666666,-104.26694444444445,Aerial image/GPS put well in sec 14 SWSE for GCDB,NA,acceptable,alluvial/high plains,260'-300' perf interval - alluvial/valley fill - likely into arikaree (high plains) too,goshen,prairie_center
+H.V. Anderson No. 3,50,72,14,SE,NW,NA,NA,NA,NA,NA,50-72-14dbd,42.04361,-104.88917,NA,NA,NA,NA,NA,campbell,gillette
+H.V. Anderson No. 4,50,72,14,SW,NE,NA,NA,NA,NA,NA,50-72-14caa,42.12167,-104.9275,NA,NA,NA,NA,NA,campbell,gillette
+Heritage Village No. 1,50,72,14,SW,NE,57954,1545,?,30081,8.625,50-72-14cac,44.29917,-105.46917,NA,Must sneak through a resident’s yard. Large dogs may reside close to well location. Must unbolt well cap to access airline.,Satisfactory,Ft. Union,822-1522 (ft_bls),campbell,gillette
+Hill Well,20,60,29,NW,NE,NA,NA,4.7,NA,2,20-60-29bac2,44.30528,-105.51583,NA,NA,bent casing,NA,NA,goshen,lagrange
+Horse Creek #1,15,67,36,SW,SE,NA,700,1.9,36290,8,15-67-36 cd,41.01638888888889,-104.12416666666665,NA,In WYDOT parking lot/laydown yard,Good; no shelter; locking well cap in place,"Multiple; Brule, White River, Lance","1/2"" x 4""; 750 from 440-460; 750 from 340-360; 672-700",laramie,laramie_co
+Huntoon #1,15,73,1,SE,NW,35758,182,0.9,219456000,5,15-73-01dba,44.24806,-105.54861,NA,NA,Acceptable,Casper,NA,albany,albany
+Huntoon #2,15,73,12,SE,NW,44232,243,1.3,267321600,5,15-73-12dbb,44.29333,-105.51167,NA,NA,Acceptable,Casper,NA,albany,albany
+J. Ward,20,61,32,SE,NW,NA,NA,3,NA,2,20-61-32dbc,42.436527777777776,-104.22938888888889,NA,water level may be influenced by adjacent ditch water level,casing thread slightly damaged,NA,NA,goshen,lagrange
+Jim Kintz Well,50,73,28,SW,NE,51398,1500,NA,NA,NA,50-73-28cac,44.18688888888889,-104.25319444444445,Needs well monument,NA,Satisfactory,Ft. Union,NA,campbell,gillette
+"Joe Johnson,Jr No. 1 Well",26,68,35,SE,NE,NA,NA,NA,NA,NA,26-68-35dac,42.39736111111111,-104.35633333333332,no longer measured,NA,NA,NA,NA,platte,platte_co
+Joe P Johnson No. 1 Stk,26,68,36,SW,NW,NA,NA,NA,NA,NA,26-68-36cbc,41.31722222222223,-104.17005555555556,no longer measured,NA,NA,NA,NA,platte,platte_co
+Juschka No. 1 Well,26,68,26,NE,SW,NA,NA,NA,NA,NA,26-68-26acd,41.31725,-104.16969444444445,no longer measured,NA,NA,NA,NA,platte,platte_co
+Juschka No. 2 Well,26,68,23,SE,SW,NA,NA,NA,NA,NA,26-68-23dcd,41.69288,-104.16874,no longer measured,NA,NA,NA,NA,platte,platte_co
+Juschka No. 5 Well,26,68,23,NW,NW,NA,NA,NA,NA,NA,26-68-23bbd,41.114111111111114,-104.64647222222223,no longer measured,NA,NA,NA,NA,platte,platte_co
+LaGrange Haystack,19,61,13,NW,NE,NA,NA,1,NA,4,19-61-13baa,42.48019166666667,-104.15124722222222,NA,"dug well, covered with old wood planks",terrible,NA,NA,goshen,lagrange
+LaGrange No. 2,20,60,30,NW,NW,NA,NA,1,NA,5,20-60-30bbb,44.31,-105.47944,NA,In-Situ LevelTroll,NA,NA,NA,goshen,lagrange
+LaGrange No.1,19,61,10,NE,NE,NA,NA,1.6,NA,5,19-61-10aab,44.31028,-105.48417,NA,In-Situ LevelTroll,NA,NA,NA,goshen,lagrange
+LC#1,12,60,7,SE,SE,NA,120,1.7,28269,5.5625,12-60-7 ddd,41.203611111111115,-104.83749999999999,County Rd 161,NA,NA,"High Plains, White River","1/8"" x 8"" perfs; 72 perfs from 80'-120'",laramie,laramie_co
+LC#10,14,67,12,NE,NW,NA,220,1.25,30886,5,14-67-12 abb,41.14194444444444,-104.88611111111112,NA,NA,Good,"High Plains, Ogallala and/or Arikaree","1/8"" x 8"" from 160'-220'",laramie,laramie_co
+LC#11,14,67,34,NW,SW,NA,162,1.5,31482,4,14-67-34 bbc 01,41.1575,-104.88055555555555,Round Top,NA,NA,"High Plains, Ogallala and/or Arikaree",NA,laramie,laramie_co
+LC#13,14,67,27,NE,NW,NA,180,1.18,30599,4,14-67-27 bac 01,41.055277777777775,-104.80638888888889,Round Top,NA,Cut off .66 ft to remove large notch in top of casing.,"High Plains, Ogallala and/or Arikaree",NA,laramie,laramie_co
+LC#14,14,68,12,NW,NW,NA,160,1.3,31486,4,13-66-32 bbd,41.18694444444444,-104.4075,NA,Access agreement in place.,Good,"High Plains, Ogallala and/or Arikaree",320 perfs from 80'-160',laramie,laramie_co
+LC#15,14,66,23,SE,SE,NA,216,1.3,31487,4,14-66-23 ddd,41.160555555555554,-104.7325,Whitney Rd,Well and shelter in area next to road that might catch debris during runoff,Good,"High Plains, Ogallala and/or Arikaree",160 perfs from 176'-216',laramie,laramie_co
+LC#16,14,66,2,SE,SW,NA,495,1.2,38197,5,14-66-2 dcc,41.36,-104.215,NA,"Access agreement with OSLI and Wayne & Gary Child in place. Well on private land, do not go if too muddy or wet.",Good,Ogalalla and Upper White River (long filter pack),0.32 4rows 1/2in spacing; 395'-455'; 475'-495',laramie,laramie_co
+LC#17,14,65,8,NW,NW,NA,501,2,38203,5,14-65-8 bbb,41.43444444444444,-104.3436111111111,NA,Access agreement with OSLI and Wayne  Child in place.,Good,Ogalalla and Upper White River (long filter pack),0.32 4rows 1/2in spacing; 321'-341'; 361'-401'; 481'-501',laramie,laramie_co
+LC#18,13,64,16,SW,SW,NA,400,1.2,38205,5,13-64-16 ccc,41.28611111111111,-104.76444444444445,NA,Access agreement with OSLI in place.,Good,Ogalalla and Upper White River (long filter pack),".032"" x 1/2""; 160'-200'; 220'-240'; 380'-400'",laramie,laramie_co
+LC#2,14,61,18,SE,SE,NA,90,1.7,28269,5,14-61-18 ddd,41.203611111111115,-104.74027777777778,County Rd 212,NA,Good,"High Plains, White River","1/8"" x 8"" perfs; 72 perfs from 50'-90'",laramie,laramie_co
+LC#3,14,64,9,NE,NE,NA,165,1.3,28270,5.875,14-63-15 aaa,41.20277777777778,-104.69277777777778,County Rd 146,NA,NA,"High Plains, Ogallala and/or Arikaree","1/8"" x 8"" perfs; 108 perfs from 105'-165'",laramie,laramie_co
+LC#4,15,62,20,NE,NE,NA,165,1,28272,5.875,15-62-20 aaa,41.08694444444445,-104.56083333333333,County Rd 218,NA,NA,"High Plains, Ogallala and/or Arikaree","1/8"" x 8"" perfs; 108 perfs from 105'-165'",laramie,laramie_co
+LC#5,16,61,17,NE,NE,NA,285,1.3,28277,5.5625,16-61-17 aaa,41.1725,-104.23722222222223,County Rd 225,NA,Good,"High Plains, Ogallala and/or Arikaree","1/8"" x 8"" from 225'-285'",laramie,laramie_co
+LC#6B,17,62,17,SW,SW,NA,360,1.1499999999999999,30058,6,17-62-17 cc,41.25861111111111,-104.33,NA,NA,Good,"High Plains, Ogallala and/or Arikaree","4""x1/8"" from 320'-360'",laramie,laramie_co
+LC#7,15,66,10,NW,NW,NA,225,1.4,28280,5.5625,15-66-10 bab,41.20305555555556,-104.75611111111111,County Rd 128,Measures irrigation to the south of the well location,Good,"High Plains, Ogallala and/or Arikaree","1/8"" x 8"" from 165'-225'",laramie,laramie_co
+LC#8,14,66,10,NE,NW,NA,190,1.4,28283,5.5625,14-66-10 aba,41.40694444444444,-104.89944444444446,Braehill Rd,NA,Good,"High Plains, Ogallala and/or Arikaree","1/8"" x 8"" from 130'-190'",laramie,laramie_co
+LC#9,14,64,19,NW,SW,NA,210,1.5,28284,5.5625,14-64-19 bcc,42.78558333333333,-104.32863888888889,County Rd 136,NA,NA,"High Plains, Ogallala and/or Arikaree",NA,laramie,laramie_co
+MX North B-1,17,67,33,NW,NE,NA,350,1.4,30241,6,17-67-33 baa,42.761694444444444,-104.43741666666666,NA,NA,NA,"High Plains, Ogallala and/or Arikaree",3600 perfs from 100'-200',laramie,laramie_co
+MX West B-7,15,68,27,SW,SW,62091,350,1.6,30867,6,15-68-27 ccc,42.712,-104.339,NA,Access agreement with FireStar LLC in place.,Good,"Ogallala and/or Arikaree, and possibly Brule siltstone",3600 perfs from 250'-350',laramie,laramie_co
+Natural Bridge,32,73,16,SW,NW,73137,220,1.7,31658,4,32-73-16cbd,43.97111,-105.707222,Need GPS coordinates at gate.,Access via two-track road below top of hill.,Satisfactory,Casper,190-220 (ft-bls),campbell,gillette
+Niobrara Co. No. 1,32,62,5,NW,NE,50989,177,1.2,Sept-1978,5,32-62-5baa01,41.37416666666667,-104.13777777777779,Aerial image/GPS put well in T33 R62 sec 32 SESW for GCDB,NA,acceptable,arikaree,140'-177' perf interval,goshen,prairie_center
+Niobrara Co. No.2,32,63,8,SE,NE,50990,178,0.6,Sept-1978,5,32-63-08daa01,41.01638888888889,-104.40916666666668,NA,NA,acceptable,arikaree,140'-178' perf interval,goshen,prairie_center
+Node well,32,62,32,NW,NW,1819,450,"3 (MP), casing at ground level",prior to 1967 (BU 5/20/1967),24 (0-40'); open hole 40-450',32-062-32bbb,44.42005555555556,-104.42005555555556,Aerial image/GPS put well in sec 29 SWSW,No record of access agreement - Well is perfed to and casing is flush with surface.  Establishing wellhead protection would be very costly.,Unacceptable,arikaree,open hole 40-450',goshen,prairie_center
+North Field Well,20,61,25,SE,SW,NA,NA,0.35,NA,uk,20-61-25dcc,44.31333,-105.47944,NA,"partially open casing, submersible pump installed, occassionally used for irrigation",NA,NA,NA,goshen,lagrange
+Northwell,20,61,15,NE,SE,NA,NA,3.3,NA,2,20-61-15-ada2,41.67846,-104.10496,NA,NA,bent casing,NA,NA,goshen,lagrange
+NW of Rain Station,20,61,23,NW,NW,NA,NA,4,NA,2,20-61-23bbc2,41.220555555555556,-104.83999999999999,NA,NA,NA,NA,NA,goshen,lagrange
+Pasture Well,20,60,30,SW,SE,NA,NA,1.5,NA,2,20-60-30cdd,41.297571,-105.523972,NA,NA,NA,NA,NA,goshen,lagrange
+Pine Buttes No. 1,52,73,25,NW,SW,91809,2820,NA,34256,4,52-73-25bcb,44.18688888888889,-104.25319444444445,Originally drilled for the Pine Buttes Improvement & Service District.,NA,Satisfactory,Ft Union,1524-2800 (ft_bls),campbell,gillette
+Pioneer Park,14,67,36,NW,SE,NA,24,1,32598,4,14-67-36 acb,41.66671,-104.13875,NA,Access agreement with City of Cheyenne in place.,Good,"High Plains, shallow",Unknown perfs from 14'-24',laramie,laramie_co
+Platte County #1A,24,68,22,NE,NE,NA,200,1.35,NA,uk,24-68-22aab,41.114444444444445,-104.6466388888889,NA,NA,NA,NA,NA,platte,platte_co
+Platte County #2,25,67,34,SW,SW,NA,380,1.6,NA,uk,25-67-34ccd,42.20222,-104.97944,NA,NA,NA,NA,NA,platte,platte_co
+Platte County #3,25,68,24,NE,NE,NA,240,0.55,NA,uk,25-68-24aad,42.21028,-104.97944,NA,NA,NA,NA,NA,platte,platte_co
+Platte County #4,25,68,12,SE,SE,NA,100,1.6,NA,uk,25-68-12dda,42.20861,-104.98333,NA,NA,NA,NA,NA,platte,platte_co
+Platte County #5,26,68,36,NW,NW,NA,200,1.4,NA,uk,26-68-36bbb,44.231389,-105.43694,NA,NA,NA,NA,NA,platte,platte_co
+Platte County #6,25,68,15,NW,NW,NA,220,1.3,NA,uk,25-68-15bbd,44.25639,-105.510833,In-Situ LevelTroll,NA,NA,NA,NA,platte,platte_co
+Platte County #7,26,68,31,NE,NE,NA,400,1.5,NA,uk,26-68-31aaa,41.66628,-104.15299,NA,NA,NA,NA,NA,platte,platte_co
+Platte County #7B,24,68,10,NE,NE,NA,98,1.4,NA,4,24-68-10aaa,41.70483,-104.17044,NA,NA,NA,NA,NA,platte,platte_co
+Platte County #8,24,68,20,NW,NW,NA,113,1.9,NA,4,24-68-20bbb,42.39389,-107.24722,NA,NA,NA,NA,NA,platte,platte_co
+Platte County #9,24,68,32,SE,SE,NA,98,1.61,NA,4,24-68-32ddc,41.6975,-104.16699,In-Situ LevelTroll,NA,NA,NA,NA,platte,platte_co
+Prairie Center #3,29,61,26,SW,NW,57013,200,1.5,29434,4,29-61-26cbb01,41.6553,-104.22767,Aerial image/GPS put well in sec 27 SENE,NA,acceptable,arikaree,140'-180' perf interval,goshen,prairie_center
+Prairie Center #4,29,61,17,NE,NE,53275,220,1.9,29434,4,29-061-17aad,43.92667,-105.92889,NA,NA,acceptable,arikaree,160'-200' perf interval,goshen,prairie_center
+Prairie Center #5,30,61,9,NW,NW,57014,220,1.6,29434,4,30-061-09bbb,44.09505555555556,-104.13155555555555,"Aerial image/GPS put well in sec 8, NENE",NA,acceptable,arikaree,160'-200' perf interval,goshen,prairie_center
+Prairie Center #6,28,61,2,SW,SW,72087,255,1.7,31503,4,28-61-02ccd01,0,0,NA,NA,acceptable,arikaree,215'-255' perf interval,goshen,prairie_center
+Prospector Village No. 1,51,72,17,SW,SW,NA,1100,2.1,28067,6.625,51-72-17cca,41.11743888888889,-104.12066388888888,NA,NA,NA,NA,NA,campbell,gillette
+Prospector Village No. 2,51,72,17,SW,SW,NA,1130,1.6,29281,8.75,51-72-17ccb,43.072750000000006,-104.30963888888888,NA,NA,NA,NA,NA,campbell,gillette
+Pump House #1,20,61,15,SE,NE,NA,NA,0,NA,18,20-61-15daa,41.284041,-105.52866,NA,"at LSD, occassionally under water, no cap, influenced by reservoir water level",open air,NA,NA,goshen,lagrange
+Pump House #2,20,61,25,SW,NW,NA,NA,1.5,NA,uk,20-61-25cbc2,41.65653,-104.2173,NA,"partially open casing, turbine pump installed, used for irrigation",NA,NA,NA,goshen,lagrange
+Rain Station,20,61,23,NW,SE,NA,NA,4,NA,2,20-61-23bdb2,44.27889,-105.64417,NA,In-Situ LevelTroll,bent casing,NA,NA,goshen,lagrange
+Rawhide Village No. 2,51,72,17,NE,NW,70619,1360,1.6,27590,6.625,51-72-20abd,44.328694444444444,-104.38758333333334,Continuously measuring water levels with a pressure transducer.,In the middle of a vacant sub-division. Must cross barbed wire fence.,Satisfactory,Ft. Union,790-1140 (ft_bls),campbell,gillette
+RCH-2,52,73,36,NE,SE,NA,NA,NA,NA,NA,52-73-36ada01,43.07269444444445,-104.31888888888888,NA,NA,NA,NA,NA,campbell,gillette
+RCH-2A,52,73,36,NE,SE,NA,NA,NA,NA,NA,52-73-36ada02,43.072750000000006,-104.30775,NA,NA,NA,NA,NA,campbell,gillette
+RCH-2B,52,73,36,NE,SE,40772,33,1.3,28466,5.5,52-73-36ada03,43.97111,-105.707222,NA,Cross cattle gate to an open field.,Satisfactory,?,22-27 (ft_bls),campbell,gillette
+Richard Johnson No.2 Well,25,68,1,SW,SE,NA,NA,NA,NA,NA,25-68-01cda,44.28917,-105.45,no longer measured,NA,NA,NA,NA,platte,platte_co
+Rocky Point No. 1,49,72,6,SW,SE,NA,1420,1.5,28124,7.5,49-72-06cdd,44.27611,-105.43444,NA,NA,NA,NA,NA,campbell,gillette
+Rowley #1,14,66,8,SW,NW,NA,≈400,1.9,UNKNOWN,-,14-66-8 cbc,41.70483,-104.17044,NA,"On private land, difficult to measure, no access agreement ; Water right has been cancelled. Unknown ownership and access",Unknown,"If 400 ft, High Plains, Ogallala and/or Arikaree",N/A,laramie,laramie_co
+SandStone #1,28,62,18,SW,NE,65796,180,1.9,418003200,8,28-62-18cac,42.42377777777777,-104.16297222222222,NA,NA,Acceptable,alluvial/high plains (likely arikaree),120'-180' perf interval,goshen,madison
+Scheel Fox Hills,16,64,26,SE,SW,203409,1060,2,42626,4.5,NA,41.62918,-104.16709,NA,NA,NA,Fox Hills,NA,laramie,laramie_co
+Scheel White River,16,61,26,SE,SW,NA,655,2.5,42639,4.5,NA,41.66647,-104.12116,NA,NA,NA,"White River, Chadron",NA,laramie,laramie_co
+SE Corner of Reservoir,20,61,22,NE,NE,NA,NA,4.3,NA,2,20-61-22aad,42.18194,-104.97083,NA,reservoir water level influences well,NA,NA,NA,goshen,lagrange
+Shatto FoxHills,13,65,10,NE,NW,NA,1960,2,41976,4,13-65-10 ab 01,44.46083,-105.59083,NA,Access agreement with Janet Shatto in place.,Good,Fox Hills,NA,laramie,laramie_co
+Shatto WhiteRiver,13,65,10,NE,NW,NA,540,2,41976,4,13-65-10 ab 02,41.14138888888889,-104.83888888888889,NA,Access agreement with Janet Shatto in place.,Good,"White River, Chadron",NA,laramie,laramie_co
+Shepard No. 1 Well,26,68,26,NW,NW,NA,NA,NA,NA,NA,26-68-26bbc,0,0,no longer measured,NA,NA,NA,NA,platte,platte_co
+Shepard No. 2 Well,26,68,23,SW,NE,NA,NA,NA,NA,NA,26-68-23cac,44.25167,-105.49417,no longer measured,NA,NA,NA,NA,platte,platte_co
+Shepard No. 3 Well,26,68,26,SE,SW,NA,NA,NA,NA,NA,26-68-26dcc,44.92894444444444,-104.64425,no longer measured,NA,NA,NA,NA,platte,platte_co
+Sleepy Hollow No. 3,49,71,17,NW,NW,NA,1473,NA,30926,6.625,49-71-17bbc,44.31972,-105.52972,NA,NA,NA,Gray sand and shale,"20 shots 910'-928', 12 shots 1290'-1310', 54 shots 1346'-1386', 21 shots 1425'-14445'",campbell,gillette
+South Campus No. 1,49,72,4,NE,SE,112672,385,1.9,36167,6,49-72-04ada,43.82861,-105.68889,NA,Must access fenced-off track and field area. Usually unlocked.,Satisfactory,Wasatch,156-358 (ft_bls),campbell,gillette
+South Field Well,20,61,35,NE,NE,NA,NA,0,NA,uk,20-61-35aab,42.18167,-104.97917,NA,"large open casing with bucket, surface dirt falls into casing",damaged casing,NA,NA,goshen,lagrange
+Southwell,20,61,15,NE,SE,NA,NA,3.5,NA,2,20-61-15ada,42.19861,-104.97917,NA,NA,NA,NA,NA,goshen,lagrange
+Split Rock #2,28,87,16,SW,SW,NA,NA,NA,NA,NA,28-87-16cca01,44.26833,-105.54,NA,NA,NA,NA,NA,carbon,split_rock
+StockTank,20,61,14,SW,SW,NA,NA,0,NA,uk,20-61-14ccb,42.20583,-104.97111,NA,"wood plug, access opening no longer present",has not been measured since 7/2014,NA,NA,goshen,lagrange
+Sullivan No. 3,50,72,25,NE,NE,NA,775,1.6,30649,6.625,50-72-25aad,41.68081,-104.14062,NA,NA,NA,NA,NA,campbell,gillette
+Sun Ranch,29,87,34,SW,NW,NA,12,2,NA,NA,NA,41.70968,-104.17017,NA,NA,NA,NA,NA,carbon,split_rock
+Sunburst No. 2,49,72,3,SE,NE,NA,NA,NA,NA,NA,49-72-03dad,41.14138888888889,-104.75944444444444,NA,NA,NA,NA,NA,campbell,gillette
+U.S.G.S M-1,57,65,15,SE,NE,32396,4341,Varies,215049600,"29.25""; 19.12"";13.38; 9.63",57-65-15dac,44.39417,-105.54278,NA,BLM Right of Way Grant in place through 12/31/2038,Acceptable,"madison, Deveonin, Stony Mountain, Red River, Winnipeg, Deadwood, Flathead, Precambrian (Ellison?) -- see well folder for well log",open hole 2320'-4341',crook,madison
+USGS S Albin,17,60,33,NW,SW,NA,275,1,27522,6,17-60-33 cbb,42.04611,-104.98417,County Rd 161,NA,"Good at surface, out of communication with water table, Likely silted in and/or water table below well depth","Ogallala and/or Arikaree, and possibly WR Brule","6"" x 1/8"" from 171'-190' and 210'-228' and 248'-265'",laramie,laramie_co
+USGS SE Carpenter,12,13,13,NW,NE,NA,190,1.65,27514,6,12-62-13 baa,42.13,-104.94722,NA,"Access agreement in place with CW & Scott Tietmeyer. Email data to Scott Tietmeyer, scott@tietmeyerfarm.com",Good,"High Plains, Quat. deposits and WR Brule","1/8"" x 2""; 90'-110'; 150'-170'",laramie,laramie_co
+USGS SW Albin,16,60,7,NW,NW,NA,215,1.1000000000000001,30440,4,16-60-7 bbbz,42.09,-104.88389,County Rd 215,NA,Good,"High Plains, Ogallala and/or Arikaree","1/8"" x 12""; 30-35 from 175-195; 30-35 from 195-215",laramie,laramie_co
+USGS SW Carpenter,12,63,15,NE,NE,NA,110,1.5,26838,6.625,12-63-15 aaa,42.14972,-104.94722,NA,"No access agreement in place. Landowner OK with measuring; Not sure on access; possibly R.O.W., possibly Konig",Good,"High Plains, WR Brule","1/4"" x 4"" from 90-110",laramie,laramie_co
+VISTA WEST NO. 2,51,63,4,NE,SE,89500,1065,1,720489600,7,51-63-4ada,44.395,-105.54694,NA,Top access now blocked as of November 2015; USFS key will open gate from bottom to drive up;  can walk up from bottom parking pull out,Acceptable,"whitewood & deadwood, possibly madison","Open hole 80'-1065' - likely whitewood and deadwood, possibly madison",crook,madison
+Ward's Yard,20,61,31,SE,NE,NA,NA,0,NA,uk,20-61-31dad,42.21694,-104.98417,NA,open access port,NA,NA,NA,goshen,lagrange
+WCH-3A,46,72,36,NE,NE,NA,NA,NA,NA,NA,46-72-36aab,41.30427777777778,-104.10713888888888,NA,NA,NA,NA,NA,campbell,gillette
+Weston County #1A,48,61,36,SW,NE,95316,570,0.9,771638400,5.5,48-61-36caa02,41.7012,-104.16897,Temporary Use Permit to SEO expires 10/1/2026 ($100/year) (00554),NA,Acceptable,minnelusa,open hole 420'-570',weston,madison
+Weston County #1A Cave Well,48,61,36,SW,NE,NA,1020,NA,NA,NA,NA,41.67131,-104.14907,NA,Well Blows air.,Not Acceptable,NA,NA,weston,madison
+Westridge/Wenger No.2,50,72,32,SE,NW,NA,NA,NA,NA,NA,50-72-32dbb,41.3045,-104.10716666666666,NA,NA,NA,NA,NA,campbell,gillette
+Windmill Well,20,61,10,SE,SE,NA,NA,NA,NA,uk,20-61-10ddd,41.62113,-104.14014,NA,NA,NA,NA,NA,goshen,lagrange
