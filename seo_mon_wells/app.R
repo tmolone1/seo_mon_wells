@@ -1,4 +1,5 @@
 library(shiny)
+library(dplyr)
 library(DT)
 
 # Define UI for data download app ----
@@ -15,7 +16,12 @@ ui <- fluidPage(
       
       # Input: Choose dataset ----
       selectInput("filter1", "Apply a filter:",
-                  choices = c("rock", "pressure", "cars")),
+                  choices = names(dattbl),
+                  selected="monitor_category"),
+      
+      
+      uiOutput("filterUI"),
+      
       
       # Button
       downloadButton("downloadData", "Download")
@@ -35,18 +41,23 @@ ui <- fluidPage(
 # Define server logic to display and download selected file ----
 server <- function(input, output) {
   
-  # Reactive value for selected dataset ----
-  datasetInput <- reactive({
-    switch(input$dataset,
-           "rock" = rock,
-           "pressure" = pressure,
-           "cars" = cars)
+  # UI for filter
+  output$filterUI<-renderUI({
+    checkboxGroupInput("filter2",  "records to include", 
+                       choices=unique(dattbl[,input$filter1]), 
+                       selected=unique(dattbl[,input$filter1]))
+  })
+  
+  re <- reactive({
+    dattbl |> 
+      filter(.data[[input$filter1]] %in% input$filter2)
   })
   
   # Table of selected dataset ----
   output$table <- DT::renderDT(server=FALSE, {
-    DT::datatable(dattbl,
+    DT::datatable(re(),
                   extensions = 'Buttons',
+                  style = 'bootstrap',
                   options = list(
                     dom = 'Bfrtip',
                     pageLength= 100,
@@ -70,10 +81,10 @@ server <- function(input, output) {
   # Downloadable csv of selected dataset ----
   output$downloadData <- downloadHandler(
     filename = function() {
-      paste(input$dataset, ".csv", sep = "")
+      paste(input$filter1, ".csv", sep = "")
     },
     content = function(file) {
-      write.csv(datasetInput(), file, row.names = FALSE)
+      write.csv(re(), file, row.names = FALSE)
     }
   )
   
