@@ -1,7 +1,9 @@
 library(shiny)
 library(dplyr)
 library(DT)
+library(googledrive)
 
+location<-googlesheets4::read_sheet(drive_get("~/Projects/seo_mon_wells/location")$id)
 # Define UI for data download app ----
 ui <- fluidPage(
   
@@ -49,7 +51,7 @@ server <- function(input, output) {
   })
   
   re <- reactive({
-    dattbl |> 
+    location |> 
       filter(.data[[input$filter1]] %in% input$filter2)
   })
   
