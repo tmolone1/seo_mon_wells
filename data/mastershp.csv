@@ -1,0 +1,577 @@
+"","FILENAME","LOCAL_NAME","LOCATOR","SEQ","IDENTIF","COUNTY","GROUP_","DEPTH","SIZE","REFELEV","MPABOVELS","L_P","WS","CHANNEL","CONST_DATE","OFFSET","USE_CODE","GEOL_SOURC","AGENCY","EXT","LOGGER","RECORDERTY","STORAGETYP","MODEL","POWER_SOUR","DATE_","TIME","INTERVAL","LEVEL_","LOGR","VSCALE","HSCALE","VLO","VHI","HLO","HHI","YRMONTH","PLOTFLD","GRTYPE","NOTES","LASTUPDATE","PERIODOFRE","STATUS","OWNERSHIP","AXESS_EXP","DATCOL_EXP","lat","long","X2022MEASUR","Permit_No"
+"1","lcno9","Laramie Co. No. 9","14-64-19bcc",0,"411005104355001",2,"L1RDR",210,0,5880,1.5,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"JGS Model 311L",NA,NA,NA,60,NA,NA,"S","P",180,140,NA,NA,NA,NA,NA,"SEO permit UW 37835
+Daily values from USGS
+
+east side of Durham estates subdivision
+
+well rehabilitated 7/14/2004",2009-02-04,"06/07/1977 to 01/21/2009","Active","ROW",NA,2099-12-31,41.1678899,-104.5980325,"Hand Measure",0
+"2","mxwb7","MX West B7","15-68-28ddd",0,"411425104592701",2,"L1RDR",350,0,0,1.6,"L",NA,0,NA,0,"O","121OGLL","WSEO",NA,NA,NA,NA,"sutron",NA,"28-Jul-04","0.375",60,NA,"70.79","S","P",190,150,NA,NA,NA,NA,NA,NA,2009-02-04,"09/26/1984 to 01/22/2009","Active","Fire Star LLC; Sutherland",NA,2099-12-31,41.2332042,-105.0021486,"Hand Measure",0
+"3","lcno11","Laramie Co. No. 11","14-67-34bcb",0,"410838104530401",2,"L1RDR",162,0,6210,0,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"JGS Model 311L",NA,"26-Oct-05","0.375",43,NA,"11.29","S","P",30,0,NA,NA,NA,NA,NA,"daily values from usgs",2009-02-04,"04/01/1986 to 01/22/2009","Active","ROW",NA,2000-01-01,41.1420102,-104.8860374,"Hand Measure",0
+"4","LCN07","Laramie Co. No. 7","15-66-10bdb",0,"411725104454601",2,"L1RDR",0,0,0,1.4,"L",NA,0,NA,0,"O","121OGLL","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"27-Oct-08","0.20833333333",60,NA,"64.99","S","P",120,40,NA,NA,NA,NA,NA,"gs 93 recorder installed",2009-02-04,"12/16/1977 to 01/22/2009","Active","ROW",NA,2099-12-31,41.2860909,-104.7644807,"InSitu Level, Baro",0
+"5","LCNo14","Laramie Co. No. 14","13-66-32bbd",0,"410324104481701",2,"L1RDR",160,0,6180,0,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"JGS Model 311L",NA,NA,NA,60,NA,NA,"S","P",60,30,NA,NA,NA,NA,NA,"daily value data from usgs.",2009-02-04,"04/01/1986 to 01/21/2009","Active","TFS II, Vizina",NA,2099-12-31,41.0553982,-104.8065039,"Hand Measure",0
+"6","LC18","Laramie Co. No.18","13-64-16ccc",0,"410513104333701",2,"L1RDR",400,5,0,1.2,"L",NA,0,NA,0,"O","121OGLL","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"21-Jan-09","0.33333333333",60,NA,"128.83","S","P",135,125,NA,NA,NA,NA,NA,"GS93 SN WY-037-002834",2009-02-04,"08/13/2004 to 01/21/2009","Active","OSLI",2019-07-01,2024-07-01,41.0870436,-104.5610305,"Hand Measure",0
+"7","SW Carp","USGS SW Carpenter","12-63-15aaa",0,"410111104223102",2,"L1RDR",110,0,5385,1.5,"L",NA,0,NA,0,"O","123BRUL","USGS",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"25-Jan-06","0.375",60,NA,"44.46","S","S",75,0,NA,NA,NA,NA,NA,"A/F logger data processed by and published by USGS
+
+Data before 7/26/2004 are daily values form USGS database
+
+For SEO internal use only",2009-02-05,"07/01/1973 to 01/21/2009","Active","Konig",NA,2000-01-01,41.0164175,-104.409318,"InSitu Level, Baro",0
+"8","SE Carp","USGS SE Carpenter","12-62-13baa",0,"410100104160301",2,"L1RDR",198,0,5315,1.7,"L",NA,0,NA,0,"O","111TRRC","USGS",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"27-Apr-06","0.33333333333",60,NA,"63.99","S","P",100,25,NA,NA,NA,NA,NA,"A/F logger  processed by USGS
+
+Data prior to 9/30/2004 are daily unit values from USGS database
+
+For SEO Internal USE only",2009-02-04,"09/22/1975 to 01/21/2009","Active","Tietmeyer",NA,2099-12-31,41.0167201,-104.2669061,"InSitu Level, Baro",0
+"9","SW Albin","USGS SW Albin","16-60-07bbb",0,"412227104081402",2,"L1RDR",215,0,5310,1.1,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"27-Apr-06","0.54166666667",60,NA,"218.26","S","P",160,140,NA,NA,NA,NA,NA,"USGS Coop site
+WSEO A/F logger 037-002687
+WSEO Encoder 037-002674
+
+Data prior to 9/30/2004 are daily unit values from USGS database
+
+SEO Internal use only",2009-02-04,"05/06/1983 to 01/21/2009","Active","ROW",NA,2099-12-31,41.3741988,-104.1378201,"InSitu Level, Baro",0
+"10","LCNo3","Laramie Co. No. 3","14-63-15aaa",0,"411114104242501",2,"L2HND",165,0,5489,1.3,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,"S","P",60,40,NA,NA,NA,NA,NA,"data collected by WSEO processed and published by USGS",2009-02-04,"05/25/1978 to 01/21/2009","Active","ROW",NA,2099-12-31,41.1868354,-104.4074358,"Hand Measure",0
+"11","ccgross","CC Gross","14-60-05bcb",0,"411238104070801",2,"L1RDR",100,0,5082,3.35,"L",NA,0,NA,0,"O","123BRUL","USGS",NA,NA,NA,NA,NA,NA,"27-Apr-06","0.41666666667",60,NA,"41.76","S","P",75,20,NA,NA,NA,NA,NA,"data processed by USGS",2009-02-04,"08/17/1962 to 01/21/2009","Active","Gross Wilkinson",NA,2099-12-31,41.2105764,-104.1195013,"InSitu Level, Baro",0
+"12","glantz","Elmer Glantz","13-60-05ccb",0,"410703104071201",2,"L2HND",0,0,0,0,"L",NA,0,NA,0,"O","123BRUL","USGS",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,"S","P",70,30,NA,NA,"JAN","Mean","SL","hand measured by seo and published by USGS",2009-02-04,"01/01/1970 to 01/21/2009","Active","Dersham Land and Cattle LLC",NA,2099-12-31,41.1169364,-104.1207666,"Hand Measure",0
+"13","lcno6a","Laramie Co. 6A","17-62-17ccc",0,"412605104203001",2,"L1RDR",360,0,5570,1.8,"L",NA,0,NA,200,"O","121OGLL","USGS",NA,NA,NA,NA,NA,NA,"25-Oct-05","0.41666666667",60,NA,"24.16","S","P",250,200,NA,NA,NA,NA,NA,"data processed by USGS, this data for seo internal use only
+
+well to be abandoned and replaced during road construction in 2006",2006-06-12,"09/02/1982 to 06/09/2006","Inactive",NA,NA,NA,41.4343690924,-104.343630614,NA,NA
+"14","LCNO6B","Laramie Co. No. 6-B","17-62-17ccc",0,"412610104203801",2,"L1RDR",363,6,0,0,"L",NA,0,"7/21/2006",0,"O","122ARKR","WSEO/USGS",NA,NA,NA,NA,"Sutron 8400",NA,"27-Jul-06","0.42777777778",60,NA,"0","S","P",230,220,NA,NA,NA,NA,NA,"This is a replacement well for the Laramie Co. 6-A that was abadoned due to Highway construction.  Well is completed in the Arikaree.  Fist data collected using transducer and axsys logger.  Permanent logger is sutron 8400.
+
+P175359W",2009-02-04,"08/03/2006 to 01/21/2009","Active","ROW",NA,NA,41.4343578,-104.3434869,"Hand Measure",0
+"15","USGS S Albin","USGS South Albin","17-60-33cbb",0,"412343104053101",2,"L1RDR",275,0,5280,1,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"27-Apr-06","0.54166666667",60,NA,"218.26","S","P",230,160,NA,NA,NA,NA,NA,"A/F logger data processed and published by USGS
+
+data prior to 9/30/2005 are daily unit values form USGS database
+
+for SEO internal use only",2009-02-04,"05/30/1975 to 01/21/2009","Active","ROW",NA,2099-12-31,41.3950511,-104.0921066,"Hand Measure",0
+"16","lcno5","Laramie Co. No. 5","16-61-17aaa",0,"411136104125301",2,"L1RDR",285,0,5451,1.3,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,NA,NA,"25-Jan-06","0.45833333333",60,NA,"48.31","S","P",205,190,NA,NA,NA,NA,NA,"data worked by usgs- this data form seo internal use only",2009-02-04,"04/11/1978 to 01/21/2009","Active","ROW",NA,2099-12-31,41.3600514,-104.2149246,"InSitu Level, Baro",0
+"17","PLTCO#5","Platte County No. 5","26-68-36bbb",0,"421228104575801",8,"P1RDR",200,0,4670,1.4,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,"Sutron",NA,NA,NA,60,NA,NA,"S","P",175,140,NA,NA,NA,NA,NA,"Sutron Recorder 037-005124
+data that is daily is from USGS imported for control area meetings on 2/16/2005",2008-11-03,"04/21/1981 to 09/19/2008","Active","OSLI",NA,2022-04-21,42.1909352,-104.9666177,"HOBO Level, Baro",0
+"18","borie","Borie","13-068-13ccc",0,"410530104574001",2,"L1RDR",0,0,6258,0,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"JGS Model 311L",NA,NA,NA,60,NA,NA,"S","P",110,35,NA,NA,NA,NA,NA,"daily values from usgs",2004-05-05,"07/01/1942 to 04/07/2004","Inactive",NA,NA,NA,41.091666666,-104.961111111,NA,NA
+"19","king3","King #3","14-68-35ddc",0,"410757104582302",2,"L1RDR",230,0,6520,0,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"JGS Model 311L",NA,NA,NA,60,NA,NA,"S","P",120,80,NA,NA,NA,NA,NA,"daily values from usgs",2004-05-05,"08/07/1969 to 04/07/2004","Inactive",NA,NA,NA,41.1324999995,-104.973055556,NA,NA
+"20","FIRESTA#3","Fire Station No. 3","14-66-34acb",1,"410830104453001",2,"L1RDR",412,6,6016,2.7,"L",NA,0,"12/16/97",0,"O","121OGLL","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"22-Jan-09","0.625",60,NA,"162.41","S","P",200,150,NA,NA,NA,NA,NA,"Permit No. U.W. 107874",2009-02-04,"04/19/1999 to 01/22/2009","Active","ROW",NA,NA,41.141453,-104.7593842,"Hand Measure",0
+"21","lcn013","Laramie Co. No. 13","14-67-27bac",0,"410930104524701",2,"L1RDR",140,0,6180,1.8,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"JGS Model 311L",NA,NA,NA,60,NA,NA,"S","P",30,15,NA,NA,NA,NA,NA,"daily values from USGS",2009-02-04,"04/01/1986 to 01/22/2009","Active","ROW",NA,NA,41.1575991,-104.8806586,"Hand Measure",0
+"22","lcno2","Laramie Co. No. 2","14-61-18ddd",0,"411022110414120",2,"L1RDR",90,0,5264,1.7,"L",NA,0,NA,0,"O","123BRUL","USGS",NA,NA,NA,NA,NA,NA,"27-Apr-06","0.45833333333",60,NA,"25.33","S","P",35,0,NA,NA,NA,NA,NA,"Data processed by USGS",2009-02-04,"04/04/1978 to 01/21/2009","Active","ROW",NA,2099-12-31,41.1725274,-104.2371158,"InSitu Level, Baro",0
+"23","bell14","Bell #14","14-067-18ddc",0,"411034104554001",2,"L1RDR",229,0,6248,0,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"JGS Model 311L",NA,NA,NA,60,NA,NA,"S","P",54.59,15.89,NA,NA,NA,NA,NA,"Daily values from USGS",2004-05-05,"10/24/1962 to 02/13/2004","Inactive",NA,NA,NA,41.1761111116,-104.927777777,NA,NA
+"24","lcno8","Laramie Co. No. 8","14-66-10aba",0,"411210104452001",2,"L1RDR",190,0,6090,1.4,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"JGS Model 311L",NA,NA,NA,60,NA,NA,"S","P",150,120,NA,NA,NA,NA,NA,"Daily values from usgs",2009-02-04,"06/13/1977 to 01/22/2009","Active","ROW",NA,2099-12-31,41.2030443,-104.7560643,"Hand Measure",0
+"25","hunt2","Huntoon No. 2","15-73-12dbb",0,"411703105314001",5,"ALB",243,0,6500,0,"L",NA,0,NA,0,"O","317CSPR","USGS",NA,NA,NA,NA,"Sutron 8400",NA,NA,NA,60,NA,NA,"S","P",100,50,NA,NA,NA,NA,NA,"Well operated by SEO, data processed by USGS.
+
+Sutron 8400 recorder installed.
+
+daily data for 11-15-1983 thru 7-27-2005 from USGS",2008-11-25,"11/15/1983 to 09/24/2008","Active","ROW",NA,NA,41.2840486,-105.5286575,"InSitu Level, Baro",0
+"26","hunt1","Huntoon No. 1","15-73-01dba",0,"411751105312701",5,"ALB",182,0,6500,0.9,"L",NA,0,NA,0,"O","317CSPR","USGS",NA,NA,NA,NA,"Sutron",NA,NA,NA,10,NA,NA,"S","P",140,100,NA,NA,NA,NA,NA,"Monitor well in Sherman hills estates.  well is very near sherman fault",2008-11-24,"11/15/1983 to 09/24/2008","Active","ROW",NA,NA,41.2975687,-105.5239717,"InSitu Level, Baro",0
+"27","ANDRSN#1","Anderson No. 1 Well","16-61-09bdb",0,"412214104123200",2,"L2HND",330,13,5465,1,"L",NA,0,"10/78",0,"I","121OGLL","Appropriator",NA,NA,"HND MEASURED",NA,NA,NA,NA,"0",0,"0","0","A","P",0,0,"11-Oct-78","26-Mar-98",NA,NA,NA,"U.W. 24592",2004-03-26,"04/04/1990 to 03/09/2004","Inactive",NA,NA,NA,41.3705555552,-104.208888888,NA,NA
+"28","Haystack","LaGrange Haystack","19-61-13baa",0,"413716104082401",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"U",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",80,20,NA,NA,NA,NA,NA,NA,2009-02-04,"04/30/1980 to 01/23/2009","Active","Robert and Nina Ward",NA,2099-12-31,41.621104,-104.140613,"Hand Measure",0
+"29","Lgr1","LaGrange No.1","19-61-10aab",0,"413810104102301",7,"LGRRD",0,0,0,1.6,"L",NA,0,NA,0,"O",NA,"WSEO",NA,NA,NA,NA,"JGS Model 311L",NA,"19-Jan-05","0.625",60,NA,"13.52","S","P",30,5,NA,NA,NA,NA,NA,"WELL DROPPED FROM COOP PROGRAM OCTOBER 27, 1995
+SEO RETAINED DUE TO WATER DISPUTES NEAR LAGRANGE",2009-02-04,"09/23/1980 to 01/23/2009","Active","SS Ranch (Andy Malm)",NA,2099-12-31,41.6365489,-104.1717437,"InSitu Level, Baro",0
+"30","WYard","Ward's Yard","20-61-31dad",0,"413919104133901",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"U",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",30,15,NA,NA,NA,NA,NA,NA,2009-02-12,"04/30/1980 to 01/23/2009","Active","Barry and Carol Ward",NA,2099-12-31,41.65533,-104.228167,"Hand",0
+"31","JWard","J. Ward","20-61-32cad",0,"413919104130201",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"O",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",5,-5,NA,NA,NA,NA,NA,NA,2008-11-04,"06/05/1978 to 09/18/2008","Active","Gross Wilkinson",NA,2099-12-31,41.6563632,-104.2181033,"Hand",0
+"32","SField","South Field Well","20-61-35aab",0,"413958104091001",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"U",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",35,10,NA,NA,NA,NA,NA,NA,2009-02-04,"04/30/1980 to 01/23/2009","Inactive","Meier and Sons",NA,NA,41.6662839999,-104.152987101,NA,NA
+"33","NField","North Field Well","20-61-25dcc",0,"414000104081901",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"U",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",35,0,NA,NA,NA,NA,NA,NA,2009-02-04,"04/30/1980 to 01/23/2009","Inactive",NA,NA,NA,41.6667116999,-104.138754201,NA,NA
+"34","PUMP2","Pump House #2","20-61-25cbc2",0,"414016104085601",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"I",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",30,0,NA,NA,NA,NA,NA,NA,2009-02-04,"04/30/1980 to 01/23/2009","Inactive",NA,NA,NA,41.6713117993,-104.149070501,NA,NA
+"35","Hillwell","Hill Well","20-60-29bac",0,"414050104061701",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"O",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",45,25,NA,NA,NA,NA,NA,NA,2009-02-04,"04/30/1980 to 01/23/2009","Active","Ward; Humphrey Rev Trust",NA,2099-12-31,41.6783841,-104.1054512,"Hand Measure",0
+"36","lgr2","LaGrange No. 2","20-61-25aaa",0,"414049104074501",7,"LGRRD",70,0,4530,1,"L",NA,0,NA,0,"O","123BRUL","USGS",NA,NA,NA,NA,"JGS Model 311L",NA,"19-Jan-05","0.5",60,NA,"49.02","S","P",60,20,NA,NA,NA,NA,NA,"Well maintained by SEO, Data processed by USGS.
+
+data prior to 10/22/2004 form USGS database
+
+data for internal SEO use only",2009-02-12,"09/24/1980 to 01/23/2009","Active","Ward / ROW",NA,2099-12-31,41.6806801,-104.1306338,"InSitu Level, Baro",0
+"37","cmeiers","CMeiers","20-60-21ddd",0,"414050104112101",7,"LGRRD",0,0,0,1.5,"L",NA,0,NA,0,"O",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",20,0,NA,NA,NA,NA,NA,"hand measured well near lagrange.",2009-02-04,"04/30/1980 to 01/23/2009","Inactive",NA,NA,NA,41.680612098,-104.189352501,NA,NA
+"38","FSanders","F. Sanders","20-61-24cdd",0,"414050104082601",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"U",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",50,0,NA,NA,NA,NA,NA,NA,2009-02-04,"08/04/1977 to 01/23/2009","Inactive",NA,NA,NA,41.6808117999,-104.140620701,NA,NA
+"39","RainSt","Rain Station","20-61-23bdb2",0,"414124104094701",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"O",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",35,0,NA,NA,NA,NA,NA,NA,2009-02-04,"12/02/1978 to 01/23/2009","Inactive","Meier",NA,2000-01-01,41.6901620004,-104.163253199,NA,NA
+"40","NWRainSt","NW of Rain Staion","20-61-23bbc2",0,"414131104100101",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"O",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",20,0,NA,NA,NA,NA,NA,NA,2009-02-04,"05/29/1980 to 01/23/2009","Inactive",NA,NA,NA,41.6921786988,-104.1670864,NA,NA
+"41","SE-Res","SE Corner of Reservoir","20-61-22aad",0,"414134104100701",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"O",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",15,-5,NA,NA,NA,NA,NA,NA,2009-02-04,"05/29/1980 to 01/23/2009","Active","Eisenbarth; Horse Creek CD",NA,2099-12-31,41.6927613,-104.1699768,"Hand Measure",0
+"42","STTANK","StockTank","20-61-14ccb",0,"414150104100101",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"U",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",15,0,NA,NA,NA,NA,NA,"hand measured unused well at stock tanke measured around post driven into casing. Near Lagrange WY.",2009-02-04,"05/29/1980 to 01/23/2009","Inactive",NA,NA,NA,41.697495398,-104.166986401,NA,NA
+"43","PUMP1","Pump House #1","20-61-15daa",0,"414204104100801",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"U",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",15,-5,NA,NA,NA,NA,NA,"old irrigation supply well for Horse Creek Irrigation District - no pump installed
+hand measured, well near Lagrange",2009-02-04,"05/29/1980 to 01/23/2009","Inactive",NA,NA,NA,41.7011954979,-104.168969601,NA,NA
+"44","NWELL","North Well","20-61-15ada2",0,"414217104101301",7,"LGRRD",0,0,0,3.3,"L",NA,0,NA,0,"U",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",30,0,NA,NA,NA,NA,NA,"hand measured well near lagrange",2009-02-04,"05/29/1980 to 01/23/2009","Active","Eisenbarth; Horse Creek CD",NA,2099-12-31,41.7048755,-104.1709206,"Hand Measure",0
+"45","SWELL","South Well","20-61-15ada",0,"414217104101302",7,"LGRRD",0,0,0,3.5,"L",NA,0,NA,0,"U",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",25,5,NA,NA,NA,NA,NA,"hand measured well near lagrange",2009-02-04,"02/12/1985 to 01/23/2009","Active","Eisenbarth; Horse Creek CD",NA,2099-12-31,41.7048517,-104.1709182,"Hand Measure",0
+"46","Wind","Windmill Well","20-61-10ddd",0,"414234104101201",7,"LGRRD",0,0,0,0,"L",NA,0,NA,0,"S",NA,"WSEO",NA,NA,NA,NA,"Hand",NA,NA,NA,0,NA,NA,"S","P",30,0,NA,NA,NA,NA,NA,"hand measured stock well near Lagrange",2007-05-10,"05/29/1980 to 05/02/2007","Inactive",NA,NA,NA,41.7096788997,-104.170169499,NA,NA
+"47","66MTN","66Mountain well","20-60-11cdd2",0,"414236104094001",7,"LGRRD",0,0,0,4.4,"L",NA,0,NA,0,"O",NA,"WSEO",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",60,45,NA,NA,NA,NA,NA,"hand measured well near Lagrange.",2009-02-04,"05/29/1980 to 01/23/2009","Inactive",NA,NA,NA,41.7100455006,-104.1611698,NA,NA
+"48","PLTCO#9","Platte County No. 9","24-68-32ddc",0,"420009105013600",8,"P1RDR",98,4,4918,1.6,"L",NA,0,"03/91",0,"O","122ARKR","WSEO",NA,"311L","L&S 7001",NA,"JGS Model 311L",NA,"21-Oct-04","0.375",60,"23.95","49.74","S","P",60,0,"25-Mar-91","24-Feb-98",NA,NA,NA,"U.W. 84670
+",2009-02-03,"03/25/1991 to 01/20/2009","Active","Lori Britton",NA,2099-12-31,42.0023889,-105.0239261,"HOBO Level, Baro",0
+"49","Preuit","Ed Preuit","24-67-21aab",0,"420237104532101",8,"P1RDR",0,0,0,1.4,"L",NA,0,NA,0,"O",NA,"WSEO",NA,NA,NA,NA,"sutron",NA,"21-Jan-00","0.54166666667",60,NA,"24.53","S","P",30,20,NA,NA,NA,NA,NA,"The well was originally monitored for Marv Crist's model.  Records are available from 1979. 
+Discontinued by USGS in 1995.",2009-02-03,"06/28/1979 to 01/20/2009","Inactive","Tracy  Preuit",NA,2099-12-31,42.0432592,-104.8898867,"Hand",0
+"50","PLTCO#8","Platte County No. 8","24-68-20bbb",0,"420242105024100",8,"P1RDR",113,4,4804,1.9,"L",NA,0,"03/91",0,"O","122ARKR","WSEO",NA,"311L","L&S 7001",NA,"sutron",NA,"21-Oct-04","0.375",60,"16.8","29.06","S","P",40,0,"14-Aug-91","24-Feb-98",NA,NA,NA,"U.W. 84612
+sutro 8400 037-005090",2009-02-03,"08/14/1991 to 01/20/2009","Active","Daniel Melcher",NA,2099-12-31,42.0458454,-105.0405903,"HOBO Level, Baro",0
+"51","PLTCO #1","Platte County No. 1A","24-68-22aaa",0,"420246104590302",8,"P1RDR",200,0,4860,1.35,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,"Sutron",NA,"25-Apr-06","0.29166666667",60,NA,"52.48","S","P",125,60,NA,NA,NA,NA,NA,"data that is daily is from USGS imported for control area meetings on 2/16/2005",2009-02-03,"04/28/1988 to 01/20/2009","Active","Lana Shepard",NA,2099-12-31,42.0447825,-104.9845104,"HOBO Level, Baro",0
+"52","PLTCO#7B","Platte County No. 7B","24-68-11bbb",0,"420423104585900",8,"P1RDR",98,4,4732,1.4,"L",NA,0,"03/91",0,"O","122ARKR","WSEO",NA,"311L","L&S 7001",NA,"sutron",NA,"21-Oct-04","0.41666666667",60,"5.75","12.93","S","P",15,2,"25-Mar-91","24-Feb-98",NA,NA,NA,"U.W. 84613",2009-02-03,"03/25/1991 to 01/20/2009","Active","Robert Hilty",NA,2099-12-31,42.0743409,-104.9828403,"Hand",0
+"53","PLTCO#2","Platte County No. 2","25-67-34cdc",0,"420524104530201",8,"P1RDR",380,0,4620,1.6,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,NA,NA,"25-Apr-06","0.41666666667",60,NA,"90.79","S","P",100,70,NA,NA,NA,NA,NA,"daily units levels from USGS and improted for Control Area meeting 2/16/2005",2009-02-03,"09/16/1980 to 01/20/2009","Active","Robert and Jana Willson",NA,2099-12-31,42.089611,-104.8835249,"Hand Measure",0
+"54","PLTCO#7","Platte County No. 7","25-68-31aaa",0,"420613105024401",8,"P1RDR",400,0,4633,1.5,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,NA,NA,"25-Apr-06","0.375",60,NA,"35.53","S","P",50,0,NA,NA,NA,NA,NA,"data that is daily is from USGS imported for control area meetings on 2/16/2005",2009-02-03,"12/18/1979 to 01/20/2009","Active","Ernest and Beth Douglas",NA,2099-12-31,42.1036857,-105.045832,"HOBO Level, Baro",0
+"55","wilhelm","Ed Wilhelm","25-67-19dda",0,"420718104553901",8,"P1RDR",760,0,4540,1.5,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"20-Jan-09","0.45833333333",60,NA,"66.33","S","P",85,40,NA,NA,NA,NA,NA,"this well is processed by USGS and has a real time data aquisition device installed.
+data that is daily is from USGS imported for control area meetings on 2/16/2005",2009-02-04,"06/13/1979 to 01/20/2009","Active","Barry Wilhelm",NA,2099-12-31,42.1220813,-104.9283067,"HOBO Level, Baro",0
+"56","PLTCO#3","Platte County No. 3","25-68-24aad",0,"420748104565001",8,"P1RDR",240,0,4560,0.55,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,NA,NA,"25-Apr-06","0.45833333333",60,NA,"75.37","S","P",90,50,NA,NA,NA,NA,NA,"water levels for daily unit values from USGS for Control Area Meeting entered 2/16/2005",2009-02-03,"09/16/1980 to 01/20/2009","Active","Richard Johnson",NA,2099-12-31,42.1293742,-104.94815,"Hand Measure",0
+"57","PLTCO#6","Platte County No. 6","25-68-15bac",0,"420840105000401",8,"P1RDR",220,0,4640,1.3,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,NA,NA,"27-Feb-08","0.58333333333",60,NA,"-180","S","P",180,35,NA,NA,NA,NA,NA,"data that is daily is from USGS imported for control area meetings on 2/16/2005",2009-02-04,"09/18/1980 to 01/20/2009","Active","Scissors Ranch, Rex Johnson",NA,2099-12-31,42.144999,-105.0009107,"HOBO Level, Baro",0
+"58","PLTCO#4","Platte County No. 4","25-68-12dda",0,"420859104565001",8,"P1RDR",100,0,4510,1.6,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"01-Aug-06","0.5",60,NA,"26.76","S","P",40,10,NA,NA,NA,NA,NA,"data collected by WSEO
+data processed and published by USGS
+data that is daily is from USGS imported for control area meetings on 2/16/2005
+",2009-02-03,"09/17/1980 to 01/20/2009","Active","Richard Johnson",NA,2099-12-31,42.15099,-104.9482335,"HOBO Level, Baro",0
+"59","RJHSN#2","Richard Johnson No.2 Well","25-68-01cda",0,"420956104550400",8,"P2HND",436,16,4665,1,"L",NA,0,"07/72",0,"I","122ARKR","Appropriator",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",75,50,"17-Mar-77","21-Apr-98",NA,NA,NA,"U.W.15510",2004-03-29,"04/19/1979 to 03/11/2004","Inactive",NA,NA,NA,42.1655555535,-104.917777779,NA,NA
+"60","ADJNS#2","Alice Duncan Jones #2","25-68-02dac",0,"421002104583100",8,"P2HND",420,0,4658,1,"L",NA,0,"04/76",0,"I","122ARKR","Appropriator",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",150,40,"18-Apr-79","21-Apr-98",NA,NA,NA,"U.W.31817",2004-03-29,"04/18/1979 to 03/11/2004","Inactive",NA,NA,NA,42.167222222,-104.975277777,NA,NA
+"61","JPJSTK#1","Joe P Johnson No. 1 Stk","26-68-36cbc",0,"421054104584500",8,"P2HND",100,6,4618,1.5,"L",NA,0,"08/69",0,"S","122ARKR","Appropriator",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",90,60,"23-Apr-91","21-Apr-98",NA,NA,NA,"U.W.3041",2004-03-29,"04/07/1992 to 03/11/2004","Inactive",NA,NA,NA,42.1816666662,-104.979166668,NA,NA
+"62","JJHNJR#1","Joe Johnson,Jr No. 1 Well","26-68-35dac",0,"421055104581500",8,"P2HND",110,6,4610,0.35,"L",NA,0,"12/70",0,"I","122ARKR","Appropriator",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",100,60,"17-Mar-77","21-Apr-98",NA,NA,NA,"U.W.15511 - Observation well is an abandoned stock well located ì
+approximately 200ft West of the irrigation well.",2004-03-29,"04/18/1979 to 03/11/2004","Inactive",NA,NA,NA,42.1819444448,-104.970833334,NA,NA
+"63","CHJHSN","Charlene Johnson","26-68-35bcc",0,"421114104594600",8,"P2HND",477,16,4648,1.5,"L",NA,0,"06/76",0,"I","122ARKR","Appropriator",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",130,90,"03-Apr-78","21-Apr-98",NA,NA,NA,"U.W. 28506",2004-03-29,"04/08/1981 to 03/11/2004","Inactive",NA,NA,NA,42.1872222214,-104.996111111,NA,NA
+"64","JSKA#1","Juschka No. 1 Well","26-68-26acd",0,"421155104584500",8,"P2HND",415,16,4681,0,"L",NA,0,"06/71",0,"I","122ARKR","Appropriator",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",170,140,"17-Mar-77","21-Apr-98",NA,NA,NA,"U.W.5480",2004-03-29,"04/18/1979 to 03/11/2004","Inactive",NA,NA,NA,42.1986111093,-104.979166668,NA,NA
+"65","SHPRD#1","Shepard No. 1 Well","26-68-26bbc",0,"421208104584600",8,"P2HND",623,16,4680,0,"L",NA,0,"03/72",0,"I","122ARKR","Appropriator",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",120,100,"17-Mar-77","10-Apr-96",NA,NA,NA,"U.W.6495",1998-05-30,NA,"Inactive",NA,NA,NA,42.2022222206,-104.979444443,NA,NA
+"66","JSKA#2","Juschka No. 2 Well","26-68-23dcd",0,"421221104581600",8,"P2HND",606,16,4709,0,"L",NA,0,"04/70",0,"I","122ARKR","Appropriator",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",190,150,"17-Mar-77","21-Apr-98",NA,NA,NA,"U.W. 5481",2004-03-29,"04/09/1980 to 03/11/2004","Inactive",NA,NA,NA,42.205833333,-104.971111109,NA,NA
+"67","SHPRD#3","Shepard No. 3 Well","26-68-26dcc",0,"421231104590000",8,"P2HND",700,16,4640,0,"L",NA,0,"04/71",0,"I","122ARKR","Appropriator",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",130,90,"17-Mar-77","21-Apr-98",NA,NA,NA,"U.W.6497",2004-03-29,"04/18/1979 to 03/11/2004","Inactive",NA,NA,NA,42.2086111106,-104.983333334,NA,NA
+"68","SHPRD#2","Shepard No. 2 Well","26-68-23cac",0,"421237104584600",8,"P2HND",1085,16,4740,0,"L",NA,0,"06/72",0,"I","122ARKR","Appropriator",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",200,160,"17-Mar-77","21-Apr-98",NA,NA,NA,"U.W.6496",2004-03-29,"04/18/1979 to 03/11/2004","Inactive",NA,NA,NA,42.2102777791,-104.979444443,NA,NA
+"69","JSKA#5","Juschka No. 5 Well","26-68-23bbd",0,"421301104590300",8,"P2HND",688,16,4783,0.5,"L",NA,0,"04/73",0,"I","122ARKR","Appropriator",NA,NA,"HAND MEASUER",NA,NA,NA,NA,"0",0,"0","0","S","P",215,170,"17-Mar-77","21-Apr-98",NA,NA,NA,"U.W.4852",2004-03-29,"04/18/1979 to 03/11/2004","Inactive",NA,NA,NA,42.2169444445,-104.984166668,NA,NA
+"70","ERuthford","Earl Rutherford","26-68-12cbd",0,"421443104574601",8,"P1RDR",320,0,4860,0,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,"sutron",NA,NA,NA,60,NA,NA,"S","P",160,110,NA,NA,NA,NA,NA,"sutron recorder installed 10/21/04
+water levels for daily units from the USGS entered for Control Area Meeting entered on 2/16/2005",2009-02-03,"09/17/1980 to 01/20/2009","Active","Silvia Rutherford",NA,2099-12-31,42.2385349,-104.9628113,"HOBO Level, Baro",0
+"71","CTTNWD#3","Cottonwood Creek No. 3","27-69-25dad",0,"421654105110100",8,"P2HND",40,4,4820,0.9,"L",NA,0,"12/81",0,"O","122ARKR","WSEO","SDF","311L","NONE",NA,"JGS Model 311L",NA,"14-May-91","0",60,"4.08","4.08","S","P",10,0,"10-Mar-88","14-May-91",NA,NA,NA,"U.W. 59008",2009-02-04,"03/10/1988 to 01/20/2009","ABA","Frances Blatnick",NA,2099-12-31,42.2829728517,-105.065842354,NA,NA
+"72","Cotton #1","Cottonwood Creek No. 1","27-69-25abc",0,"421722105042401",8,"P1RDR",0,0,0,1.4,"L",NA,0,NA,0,"O",NA,"WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"22-Jan-07","0.54166666667",60,NA,"8.89","S","P",30,0,NA,NA,NA,NA,NA,NA,2009-02-04,"12/10/1981 to 01/20/2009","Active","Frances Blatnick",NA,2099-12-31,42.288997,-105.0728898,"HOBO Level, Baro",0
+"73","SRock-2","Split Rock #2","28-87-16cca01",0,"422338107145001",6,"CRRDR",812,4,6183,1.95,"L",NA,0,"1981",0,"O","122MOCN","USGS",NA,NA,NA,NA,"Sutron 8400",NA,NA,NA,60,NA,NA,"S","P",170,160,NA,NA,NA,NA,NA,"well maintained by WSEO, data processed by USGS
+Sutron 8400 recorder installed 10/13/2005
+SEO Permit 56354",2008-11-25,"10/26/1981 to 09/22/2008","Inactive",NA,NA,NA,42.3973460237,-107.250749917,NA,NA
+"74","SNDSTN#1","Sandstone No. 1","28-62-18cba",0,"422351104212100",7,"M1RDR",180,8,0,1.9,"L",NA,1,"04/83",0,"O","122ARKR","WHD/WSEO",NA,"DC64","L&S A/F LOGGER",NA,"Stevens Model PCM-2",NA,"19-May-08","0.33333333333",60,"13.96","12.63","S","P",20,10,"15-Jun-95","07-May-98","JAN","Low","SL","Permit No. U.W. 65796
+",2009-06-04,"06/15/1995 to 05/04/2009","Active","Ketterling/ROW",NA,2099-12-31,42.3973385,-104.356337,"Hand Measure",0
+"75","GC#2","Goshen County No. 2","29-61-31dcd",0,"422512104135501",7,"PrCCA",220,0,4765,1.6,"L",NA,0,NA,0,"O","122ARKR","WSEO/USGS",NA,NA,NA,NA,"sutron",NA,"28-Jun-04","0.375",60,NA,"42.42","S","P",150,115,NA,NA,NA,NA,NA,"Data processed by USGS
+This data for internal SEO use only, has not been rigorously evaluated",2009-06-04,"05/03/1979 to 05/04/2009","Active","CO ROW",NA,2099-12-31,42.43648,-104.22938,"Hand Measure",0
+"76","PrC#6","Prairie Center No. 6","28-61-02cca",0,"422519104095101",7,"PrCCA",255,0,4795,1.7,"L",NA,0,NA,0,"O","122ARKR","WSEO/USGS",NA,NA,NA,NA,NA,NA,"28-Jun-04","0.41666666667",60,NA,"71.03","S","P",180,150,NA,NA,NA,NA,NA,"Historically was qa/qc by USGS.",2009-06-04,"04/11/1986 to 05/04/2009","Active","Roth",NA,2099-12-31,42.423818,-104.163009,"Hand Measure",0
+"77","PrC #3","Prairie Center No. 3","29-61-27add",0,"422730104094801",7,"PrCCA",200,0,4770,1.5,"L",NA,0,"1980",0,"O","122ARKR","USGS",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"19-May-08","0.375",60,NA,"149.07","S","P",155,140,NA,NA,NA,NA,NA,"11/7/2003 - Well sanded in and went dry in April 2000.  Bronco Drilling was contracted to re-work the well with air in             .  Water re-entered the well and the well is believed to be once again in communication with the formation.  
+
+Data proces",2009-06-04,"06/09/2003 to 05/04/2009","Active","CO ROW",NA,NA,42.4584901,-104.1637869,"Hand Measure",0
+"78","GC#1","Goshen County No. 1","29-61-23abb",0,"422849104090801",7,"PrCCA",300,0,4870,1,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,"sutron",NA,"28-Jun-04","0.45833333333",60,NA,"16.83","S","P",220,205,NA,NA,NA,NA,NA,"data processed by USGS
+new recorder on 6/28/2004  Sutron 8400, SN 111104",2009-06-04,"05/03/1979 to 05/04/2009","Active","CO ROW",NA,2099-12-31,42.480204,-104.151267,"Hand Measure",0
+"79","PrC #4","Prairie Center No. 4","29-61-17aad",0,"422928104121401",7,"PrCCA",220,0,4790,19,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,"JGS Model 311L",NA,"21-Feb-06","0.41666666667",60,NA,"30.79","S","P",135,120,NA,NA,NA,NA,NA,"data worked by USGS",2009-06-04,"09/20/1980 to 05/04/2009","Active","CO ROW",NA,2099-12-31,42.49217,-104.20325,"Hand Measure",0
+"80","PrC #5","Prairie Center No. 5","30-61-08aaa",0,"423549104120901",7,"PrCCA",220,0,0,1.6,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,NA,NA,"28-Jun-04","0.5",60,NA,"86.75","S","P",95,75,NA,NA,NA,NA,NA,"processed by USGS
+SEO Sutron 8400 SN 11076 installed 06/28/04",2009-06-04,"05/01/1981 to 05/04/2009","Active","Tadewold / ROW?",NA,NA,42.59678,-104.20306,"Hand Measure",0
+"81","RDGWTR1","Ridgewater No. 1","32-72-33daa",0,"424201105284900",13,"C1RDR",1165,12,5104,0,"L",NA,0,"05/90",300,"P","317CSPR","WWDC\Douglas,WY",NA,"311L","F&P MOD 1572",NA,"JGS Model 311L",NA,"21-Jan-94","0",0,"361.25","61.25","A","P",361,364,"14-May-91","21-Jan-94",NA,NA,NA,NA,1998-05-30,NA,NA,NA,NA,NA,42.7002777764,-105.480277777,NA,NA
+"82","node","Node Well","32-62-32bbb",0,"424244104202001",14,"PrCCA",485,0,4899,3,"L",NA,0,NA,0,"O","122ARKR","USGS",NA,NA,NA,NA,"JGS Model 311L",NA,"28-Jun-04","0.54166666667",60,NA,"40.13","S","P",60,15,NA,NA,NA,NA,NA,"processed by USGS
+SEO Sutron 8400 SN 109921 installed 06/28/2004",2009-06-04,"10/02/1970 to 05/04/2009","Active","Pzynski",NA,2099-12-31,42.7123889,-104.3391944,"Hand Measure",0
+"83","nb","Natural Bridge","32-73-16cdb",0,"424420105364201",13,"G1RDR",220,4,5316.4,1.7,"L",NA,0,NA,0,"O","317CSPR","USGS",NA,NA,NA,NA,"Sutron 8400",NA,NA,NA,60,NA,NA,"S","P",70,25,NA,NA,NA,NA,NA,"SEO Sutron 8400 installed 7/14/2004
+sn 109878, IN 037-005083",2009-03-05,"11/06/1986 to 02/01/2009","Active","OSLI",NA,2021-04-21,42.7384695,-105.6160985,"Hand Measure",0
+"84","NCo No2","Niobrara Co. No. 2","32-63-08daa",0,"424544104260601",14,"PrCCA",178,0,0,0.6,"L",NA,0,NA,0,"U","122ARKR","WSEO",NA,NA,NA,NA,"JGS Model 311L",NA,"19-May-08","0.5",60,NA,"105.46","S","P",15,0,NA,NA,NA,NA,NA,NA,2009-06-04,"09/18/2000 to 05/04/2009","Active","Greenough; 2 Arrow Ranch Co",NA,2099-12-31,42.7616453,-104.4373414,"Hand Measure",0
+"85","NCo No. 1","Niobrara Co. No. 1","33-62-32cdd",0,"424709104194101",14,"PrCCA",177,0,4970,1.2,"L",NA,0,"1979",0,"O","122ARKR","USGS",NA,NA,NA,NA,"sutron",NA,"19-May-08","0.5",60,NA,"105.46","S","P",120,85,NA,NA,NA,NA,NA,"Data processed and published by the USGS.
+
+Raw file stored in PrCCA file, however well is not physically located in the PrCCA.",2009-06-04,"06/01/1979 to 05/04/2009","Active","CO ROW",NA,NA,42.7855699,-104.3286224,"Hand Measure",0
+"86","ETSI T-2","ETSI T-2 Madison","36-62-28abd",0,"430422104183201",14,"M1RDR",3120,0,4244,0,"L",NA,0,NA,0,"O","331MDSN","USGS",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"26-Aug-08","0.29166666667",60,NA,"42.52","S","P",550,520,NA,NA,NA,NA,NA,"Data processed and published by the USGS.",2009-06-05,"08/26/2003 to 05/07/2009","Active","DeGering",NA,2099-12-31,43.07272,-104.30775,"Hand Measure",0
+"87","ETSI02","ETSI 0-2 LAKOTA","36-062-28AB02",0,"430422104183202",14,"M1RDR",505,0,4247,0,"L",NA,0,NA,0,"O","217LKOT","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,NA,NA,60,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,"THIS MONITOR WELL IS PROCESSED BY THE USGS.  WELL HAS BEEN BLOCKED DOWNHOLE, WAITING ON BOREHOLE CAMERA.3/04/2004 JTM",2004-03-04,NA,"Inactive",NA,NA,NA,43.0727777766,-104.308888888,NA,NA
+"88","bill6","Bill No. 6","37-70-10cbc",0,"431140105151901",13,"G1RDR",268,5,4720,0.4,"L",NA,0,NA,0,"O","124WSTC","USGS",NA,NA,NA,NA,"Sutron",NA,NA,NA,60,NA,NA,"S","P",30,10,NA,NA,NA,NA,NA,"SEO Sutron 8400, SN 109958, IN 037-005094",2009-03-05,"05/20/1986 to 02/01/2009","Active","ROW - WYDOT",NA,2099-12-31,43.1931619,-105.2594351,"Hand Measure",0
+"89","CBM-MON-7W","CBM-MON-7W (Stuart)","43-72-11aab",1,"431600105284501",17,"G1RDR",518,7,4886.1,0.4,"L",NA,1,"09/27/2000",0,"O","124WSTC","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"01-Feb-09","0.66666666667",60,NA,"341.8","S","P",390,275,NA,NA,NA,NA,NA,"Permit No. U.W. 
+Barrett Resources Well",2009-02-24,"09/28/2000 to 02/01/2009","Active","Ark Land Company; Larry Dogobrenz",NA,2000-01-01,43.72082,-105.4659038,"Hand Measure",129035
+"90","TC-14","TC-14","40-117-13ccc",0,"432400110494800",22,"T1RDR",18,6,6036.3,2.5,"L",NA,0,"09/17/97",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"04-Jun-98","0.58333333333",60,"3.87","3.87","S","P",10,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107454
+(2)East bank through Crane Ranch.
+      Approx. 2.6 miles, take left Rd off bank-
+       just a little ways, and well of on left
+       next to fence.",2004-12-07,"09/18/1997 to 11/16/2004","Inactive",NA,NA,NA,43.3999999995,-110.829999999,NA,NA
+"91","TC-10","TC-10","40-117-25bac",0,"432415110493500",22,"T1RDR",18,5,6015.2,2.65,"L",NA,0,"09/17/1997",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"04-Jun-98","0.41666666667",60,"1.44","1.44","S","P",10,-5,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107450
+(2)Far South Well on Fall
+     Creek Rd.",2004-12-08,"12/04/1997 to 11/15/2004","Inactive",NA,NA,NA,43.404166667,-110.826388891,NA,NA
+"92","TC-9","TC-9","40-117-14cdc",0,"432518110504100",22,"T1RDR",18,6,6044.8,2.6,"L",NA,0,"09/17/1997",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"04-Jun-98","0.45833333333",60,"5.51","5.51","S","P",15,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107449
+(2)Second Well from South on
+     Fall Creek Rd.",2004-12-08,"09/18/1997 to 11/16/2004","Inactive",NA,NA,NA,43.421666664,-110.844722223,NA,NA
+"93","TC-8","TC-8","40-117-10cab",0,"432634110513400",22,"T1RDR",18,6,6082.6,3.1,"L",NA,0,"09/17/1997",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"04-Jun-98","0.41666666667",60,"5.1","5.1","S","P",15,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107448
+(2)Third Well from South
+      on Fall Creek Rd.",2004-11-24,"09/18/1997 to 06/08/2004","Inactive",NA,NA,NA,43.4427777779,-110.859444445,NA,NA
+"94","TC-13","TC-13","40-117-3cca",0,"432703110510900",22,"T1RDR",18,5,6084,2.5,"L",NA,0,"09/17/1997",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"04-Jun-98","0.54166666667",60,"3.58","3.58","S","P",20,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107453
+(2)East bank through Crane Ranch
+      approx. 1.2 Mil South of TC-12",2004-12-07,"09/18/1997 to 11/16/2004","Inactive",NA,NA,NA,43.4508333321,-110.852500001,NA,NA
+"95","TC-7","TC-7","40-117-3dcc",0,"432706110513400",22,"T1RDR",18,6,6084.6,3.6,"L",NA,0,"09/17/1997",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"04-Jun-98","0.5",0,"2.54","2.54","S","P",15,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W.107447
+(2)West Levee, far South till
+      no longer a levee",2004-12-09,"09/18/1997 to 11/15/2004","Inactive",NA,NA,NA,43.4516666658,-110.859444445,NA,NA
+"96","TC-6","TC-6","41-117-35ccd",0,"432759110512600",22,"T1RDR",18,6,6105.1,2.3,"L",NA,0,"09/17/97",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"04-Jun-98","0.5",60,"1.8","1.8","S","P",20,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107446
+(2)West Levee before second gate.",2004-12-07,"09/18/1997 to 11/15/2004","Inactive",NA,NA,NA,43.4663888897,-110.857222223,NA,NA
+"97","TC-12","TC-12","41-117-35dcb",0,"432804110510000",22,"T1RDR",18,6,6109.6,2.2,"L",NA,0,"09/17/1997",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"04-Jun-98","0.54166666667",60,"3.09","3.09","S","P",20,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107452
+(2)East Bank. Through the Crane Ranch.
+     just past 4th gate on Levee
+     - Double Green gate.",2004-12-01,"09/18/1997 to 11/16/2004","Inactive",NA,NA,NA,43.4677777785,-110.849999999,NA,NA
+"98","TC-5","TC-5","41-117-26ccd",0,"432852110512200",22,"T1RDR",18,6,6126.7,2.4,"L",NA,0,"09/18/98",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"03-Jun-98","0.66666666667",60,"2.9","2.9","S","P",15,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107445
+(2)Wenzel Lane, South of Don Barney's
+      Dad's house- 4 gates, then hard right
+      East Side of Fence- 1/4 mile from
+      gate.",2004-12-07,"09/18/1997 to 11/15/2004","Inactive",NA,NA,NA,43.4811111091,-110.856111109,NA,NA
+"99","TC-4","TC-4","41-117-27cbc",0,"432902110523500",22,"T1RDR",18,6,6126.1,2.4,"L",NA,0,"09/18/1997",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"03-Jun-98","0.58333333333",60,"4.09","4.09","S","P",15,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107444
+(2)Fish Creek Ranch on Fall
+     Creek Rd- South Side of
+     Stack Yard, South of
+     Ranch Buildings.",2004-12-02,"09/18/1997 to 11/15/2004","Inactive",NA,NA,NA,43.4838888867,-110.876388889,NA,NA
+"100","TC-3","TC-3","41-117-26cad",0,"432904110510800",22,"T1RDR",18,6,6133.9,2.7,"L",NA,0,"09/17/1997",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"04-Jun-98","0.5",60,"3.57","3.57","S","P",20,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107443
+(2)West bank, 1.2 Miles from
+      U.S. 22",2004-12-07,"09/18/1997 to 11/15/2004","Inactive",NA,NA,NA,43.4844444418,-110.852222222,NA,NA
+"101","E1","TCTE-1","41-117-26bcc",0,"432914110513300",22,"T1RDR",18,6,6137,2.5,"L",NA,0,"08/01/1995",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.41666666667",60,"6.14","6.14","S","P",20,0,"04-Aug-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W. 99819
+2.)Don Barney's Dad's House",2004-12-01,"08/04/1995 to 11/15/2004","Inactive",NA,NA,NA,43.4872222205,-110.859166667,NA,NA
+"102","E2","TCTE-2","41-117-22cda",0,"432936110521800",22,"T1RDR",17,6,6138,2.4,"L",NA,0,"08/01/1995",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.45833333333",60,"3.04","3.04","S","P",20,0,"06-Oct-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.99818
+2.)Schofield Patent-End of
+     End of Road Well",2004-12-01,"10/06/1995 to 11/15/2004","Inactive",NA,NA,NA,43.4933333341,-110.871666667,NA,NA
+"103","TC-1","TC-1","41-117-23cdd",0,"432944110510900",22,"T1RDR",18,6,6150.2,2.65,"L",NA,0,"09/17/1997",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"03-Jun-98","0.625",60,"5.5","5.5","S","P",15,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107441
+(2)Green Lane Rd, South of
+      Storage Complex",2004-12-01,"09/18/1997 to 11/15/2004","Inactive",NA,NA,NA,43.4955555533,-110.852500001,NA,NA
+"104","TC-11","TC-11","41-117-24cca",0,"432950110501400",22,"T1RDR",18,6,6154.9,2.1,"L",NA,0,"09/17/1997",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"03-Jun-98","0.70833333333",60,"2.08","2.08","S","P",20,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107451
+(2)Crane Creek Ranch South of
+      Highway, East of Levee
+      before going through the
+      gate- on left",2004-12-01,"09/18/1997 to 11/16/2004","Inactive",NA,NA,NA,43.4972222218,-110.837222223,NA,NA
+"105","TC-2","TC-2","41-117-22cca",0,"432951110523500",22,"T1RDR",18,6,6144.6,2.2,"L",NA,0,"09/17/1997",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"03-Jun-98","0.625",60,"6.19","6.19","S","P",15,0,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 107442
+(2)Next to fence, SW of Sinclair Station
+     in Town of Wilson",2004-12-02,"09/18/1997 to 11/15/2004","Inactive",NA,NA,NA,43.4975000005,-110.876388889,NA,NA
+"106","A5","TCTA-5","41-117-22dbc",0,"432953110521400",22,"T1RDR",17,6,6144,3.4,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"16-Sep-04","0.45833333333",60,"2.67","65.44","S","P",12,0,"25-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97002
+2.)Vacant Lot Well in Wilson",2004-12-17,"10/20/1994 to 11/15/2004","Inactive",NA,NA,NA,43.4980555555,-110.870555554,NA,NA
+"107","A2","TCTA-2","41-117-23cac",0,"432954110512500",22,"T1RDR",17,6,6153,3,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.41666666667",60,"5.83","5.83","S","P",15,-5,"25-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.96999
+2.)Hardeman East Well",2004-11-29,"10/20/1994 to 11/15/2004","Inactive",NA,NA,NA,43.498333332,-110.856944443,NA,NA
+"108","A3","TCTA-3","41-117-23cbc",0,"432954110514300",22,"T1RDR",17,6,6149,3.2,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.41666666667",60,"5.16","5.16","S","P",15,0,"25-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97000
+2.)Hardeman West Well",2004-11-29,"10/20/1994 to 11/15/2004","Inactive",NA,NA,NA,43.498333332,-110.861944444,NA,NA
+"109","A4","TCTA-4","41-117-22dbd",0,"432958110520900",22,"T1RDR",16,6,6145,4.1,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.41666666667",60,"2.05","2.05","S","P",10,0,"25-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97001
+2.)Seaton Construction Well",2004-11-29,"10/20/1994 to 11/15/2004","Inactive",NA,NA,NA,43.4994444443,-110.869166665,NA,NA
+"110","A1","TCTA-1","41-117-23dab",0,"432960110504700",22,"T1RDR",19,6,6155,2.9,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.54166666667",60,"2.78","2.78","S","P",15,0,"25-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.96998
+2.)Well@ Junction of Hwy 22 and 390",2004-10-26,"09/23/1994 to 06/08/2004","Inactive",NA,NA,NA,43.4999999994,-110.84638889,NA,NA
+"111","A7","TCTA-7","41-117-23adc",0,"433010110504700",22,"T1RDR",19,6,6160,1.3,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.41666666667",60,"3.53","3.53","S","P",15,0,"25-Jan-95","02-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97004
+2.)Well 1/4 Mile North of Junction Hwy 22
+   and 390",2004-11-30,"09/23/1994 to 11/16/2004","Inactive",NA,NA,NA,43.502777777,-110.84638889,NA,NA
+"112","A6","TCTA-6","41-117-22acc",0,"433012110521700",22,"T1RDR",17,6,6151,2.9,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.41666666667",60,"5.65","5.65","S","P",15,0,"25-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97003
+2.)Conan Beesly Yard Well",2004-12-17,"10/20/1994 to 11/16/2004","Inactive",NA,NA,NA,43.5033333321,-110.871388888,NA,NA
+"113","B11","TCTB-11","41-117-14add",0,"433058110503300",22,"T1RDR",18,6,6179,2.4,"L",NA,0,"10/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.375",60,"3.9","3.9","S","P",15,0,"25-Jan-95","02-Dec-97",NA,NA,NA,"1.)Permit No. U.W. 97407
+2.)The Pines Next to Chuckwagon Supperclub",2004-12-09,"10/20/1994 to 11/16/2004","Inactive",NA,NA,NA,43.5161111121,-110.842499999,NA,NA
+"114","B3","TCTB-3","41-117-13acc",0,"433105110495300",22,"T1RDR",19,6,6187,1.3,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.58333333333",60,"3.61","3.61","S","P",20,0,"25-Jan-95","02-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97007
+2.)Tucker Ranch 1st Well Driven
+   South Levee Well",2004-12-22,"09/23/1994 to 06/10/2004","Inactive",NA,NA,NA,43.518055556,-110.831388888,NA,NA
+"115","B2","TCTB-2","41-117-13aba",0,"433118110493900",22,"T1RDR",18,6,6193,1.7,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.625",60,"4.51","4.51","S","P",20,0,"25-Jan-95","02-Dec-97",NA,NA,NA,"1.)Permit No. U.W. 97006
+2.)Tucker Ranch Middle Levee Well",2004-12-07,"09/23/1994 to 11/17/2004","Inactive",NA,NA,NA,43.5216666673,-110.8275,NA,NA
+"116","B10","TCTB-10","41-117-13baa",0,"433121110500200",22,"T1RDR",18,6,6192,1.7,"L",NA,0,"10/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.625",60,"1.6","1.6","S","P",20,0,"25-Jan-95","02-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97406
+2.)Tucker Utility Box Well",2004-12-09,"10/20/1994 to 06/10/2004","Inactive",NA,NA,NA,43.5224999977,-110.83388889,NA,NA
+"117","B5","TCTB-5","41-117-12ccb",0,"433135110502900",22,"T1RDR",19,6,6193,1.3,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.58333333333",60,"4.78","4.78","S","P",15,0,"25-Jan-95","02-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97009
+2.)Tucker Ranch @ Bed & Breakfast Turn Off.",2004-11-30,"09/23/1994 to 11/16/2004","Inactive",NA,NA,NA,43.5263888887,-110.84138889,NA,NA
+"118","B4","TCTB-4","41-117-12cdb",0,"433135110501400",22,"T1RDR",18,6,6196,1.4,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.58333333333",60,"5.22","5.22","S","P",20,0,"25-Jan-95","02-Dec-97",NA,NA,NA,"1.)Permit No. U.W. 97008
+2.)Tucker Ranch @ Ditch Crossung  500 ft East 
+   to Bead and Breakfast Well,f",2004-12-07,"09/23/1994 to 06/10/2004","Inactive",NA,NA,NA,43.5263888887,-110.837222223,NA,NA
+"119","B12","TCTB-12","41-116-7ccb",1,"433135110491301",22,"T1RDR",18,7,6205,2,"L",NA,0,"09/04/1996",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"05-May-98","0.041666666667",60,"7.73","7.73","S","P",20,0,"05-Sep-96","16-Sep-97",NA,NA,NA,"1.)Permit No. U.W.103783
+2.)Walton Ranch",2004-12-09,"12/03/1996 to 06/09/2004","Inactive",NA,NA,NA,43.5263888887,-110.820277776,NA,NA
+"120","B9","TCTB-9","41-117-12dca",0,"433136110494600",22,"T1RDR",19,6,6200,1.5,"L",NA,0,"10/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.625",60,"8.32","8.32","S","P",20,0,"24-Jan-95","02-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97405
+2.)Tucker Culdesac Well",2004-12-08,"10/20/1994 to 11/17/2004","Inactive",NA,NA,NA,43.5266666652,-110.829444444,NA,NA
+"121","B1","TCTB-1","41-117-12dda",0,"433136110492800",22,"T1RDR",19,6,6202,1.2,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.625",60,"7.68","7.68","S","P",20,0,"25-Jan-95","02-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97005
+2.)Tucker Ranch NE Corner of Subdivision
+   North Levee Well",2004-12-07,"09/23/1994 to 11/17/2004","Inactive",NA,NA,NA,43.5266666652,-110.824444444,NA,NA
+"122","B6","TCTB-6","41-117-11add",0,"433150110503700",22,"T1RDR",17,6,6197,2.9,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,NA,NA,"02-Jun-98","0.375",60,"3.26","3.26","S","P",15,0,"25-Jan-95","02-Dec-97",NA,NA,NA,"1.)Permit No. U.W. 97010
+2.)The Pines by guard house.",2004-12-06,"10/20/1994 to 11/17/2004","Inactive",NA,NA,NA,43.5305555562,-110.843611113,NA,NA
+"123","ASP1","TCTB-7(ASP1)","41-117-11acd",0,"433153110505400",22,"T1RDR",100,8,6193,0.7,"L",NA,0,"10/72",0,"O","111ALVM","WSEO/Aspen Pines Subd","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.375",60,"2.16","2.16","S","P",20,0,"25-Jan-95","02-Dec-97",NA,NA,NA,"1.)Permit No. U.W.20369
+2.)Old WSW for Aspen Pines Subdv.
+3.)6/10/2004, Talked to Aspen Pines Water & Sewer they don't know where the recorder is, but do admit to removing the lock and pulling it to use the well themselves. The recorder was removed some",2004-11-24,"01/25/1995 to 11/19/2003","Inactive",NA,NA,NA,43.5313888866,-110.848333334,NA,NA
+"124","R2","TCTR-2","41-117-02daa",0,"433240110503500",22,"T1RDR",17,6,6212,3.4,"L",NA,0,"10/94",0,"O","111ALVM","WSEO","TXT","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.41666666667",60,"1.38","1.38","S","P",10,-5,"25-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97565
+2.)Resor's House Well",2004-12-13,"10/20/1994 to 11/17/2004","Inactive",NA,NA,NA,43.544444442,-110.843055554,NA,NA
+"125","R1","TCTR-1","41-117-01add",0,"433248110492000",22,"T1RDR",18,6,6232,2.5,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.33333333333",60,"3.01","3.01","S","P",20,0,"25-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97024
+",2004-12-08,"10/20/1994 to 11/17/2004","Inactive",NA,NA,NA,43.5466666645,-110.822222223,NA,NA
+"126","C1","TCTC-1","42-116-32cbc",0,"433328110480900",22,"T1RDR",19,6,6259,0.8,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.66666666667",60,"5.34","5.34","S","P",20,0,"17-May-95","16-Sep-97",NA,NA,NA,"1.)Permit No. U.W.97013
+2.)Snake Rv Ranch Next to Levee. Next to Fence",2004-12-07,"09/23/1994 to 11/16/2004","Inactive",NA,NA,NA,43.557777776,-110.802499999,NA,NA
+"127","C3","TCTC-3","42-116-31cbb",0,"433336110491400",22,"T1RDR",18,6,0,3.6,NA,NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"23-Oct-99","0.29166666667",60,"2.27","4.04","S","P",20,-5,"24-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97014
+2.)Snake Rv Ranch 1st Well Southof DirtXî--",2004-11-02,"09/23/1994 to 11/20/2003","Inactive",NA,NA,NA,43.5599999996,-110.820555556,NA,NA
+"128","C2","TCTC-2","42-116-31bdd",0,"433336110484600",22,"T1RDR",19,6,6257,3.5,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.66666666667",60,"1.68","1.68","S","P",20,0,"24-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97014
+2.)Snake Rv Ranch South of Lake Cr.
+   Across Bridge South Fork of Rd.",2004-12-07,"09/23/1994 to 06/09/2004","Inactive",NA,NA,NA,43.5599999996,-110.812777777,NA,NA
+"129","C5","TCTC-5","42-117-36baa",0,"433402110495500",22,"T1RDR",19,6,6263,3,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.33333333333",60,"8.45","8.45","S","P",20,-5,"23-Jan-95","16-Sep-97",NA,NA,NA,"1.)Permit No. U.W. 97017
+2.)Snake Rv Ranch West of Hwy 390
+   (Second Well)",2004-12-06,"09/23/1994 to 06/25/2003","Inactive",NA,NA,NA,43.56722222,-110.831944443,NA,NA
+"130","C6","TCTC-6","42-117-25ddd",0,"433402110501900",22,"T1RDR",18,6,6256,3.7,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,NA,NA,"02-Jun-98","0.33333333333",60,"3.54","3.54","S","P",20,0,"23-Jan-95","16-Sep-97",NA,NA,NA,"1.)Permit No. U.W. 97018
+2.)Snake Rv Ranch West of Hwy 390
+   Xî--",2004-11-02,"09/23/1994 to 06/25/2003","Inactive",NA,NA,NA,43.56722222,-110.838611111,NA,NA
+"131","C4","TCTC-4","42-117-36bba",0,"433403110492000",22,"T1RDR",19,6,6269,2.8,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"02-Jun-98","0.29166666667",60,"4.76","4.76","S","P",20,0,"24-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97016
+2.)Snake Rv ranch West of Hwy 390
+   (First Well)",2004-12-13,"09/23/1994 to 11/16/2004","Inactive",NA,NA,NA,43.5674999987,-110.822222223,NA,NA
+"132","D6","TCTD-6","42-116-29cdc",0,"433408110474800",22,"T1RDR",17,6,6276,2.7,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.66666666667",60,"5.37","5.37","S","P",20,0,"24-Jan-95","16-Sep-97",NA,NA,NA,"1.)Permit No. U.W. 97023
+2.)Snake Rv Ranch Headquarters",2004-12-07,"10/20/1994 to 11/16/2004","Inactive",NA,NA,NA,43.5688888874,-110.796666668,NA,NA
+"133","C7","TCTC-7","42-116-29dbc",0,"433415110471900",22,"T1RDR",18,7,6282.06,2,"L",NA,0,"09/04/1996",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 E",NA,"02-Jun-98","0.58333333333",60,"4.14","4.14","S","P",20,0,"05-Sep-96","17-Sep-97",NA,NA,NA,"1.)Permit No. U.W.103784
+2.)BLM",2004-12-06,"09/05/1996 to 06/09/2004","Inactive",NA,NA,NA,43.5708333313,-110.78861111,NA,NA
+"134","D5","TCTD-5","42-116-20dcc",0,"433454110472900",22,"T1RDR",17,6,6298,2.6,"L",NA,0,"10/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,NA,NA,"01-Jun-98","0.79166666667",60,"5.44","5.44","S","P",20,0,"24-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97408
+2.)Ewing Well",2004-12-07,"10/20/1994 to 11/16/2004","Inactive",NA,NA,NA,43.5816666675,-110.791388888,NA,NA
+"135","D3","TCTD-3","42-116-19aaa",0,"433545110481200",22,"T1RDR",58,6,6337,1.6,"L",NA,0,"08/95",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.70833333333",60,"23.8","23.8","S","P",40,0,"04-Aug-95","03-Dec-97",NA,NA,NA,"1.)Next to Fork in the rd Before Entering
+   ""R""Lazy""S"" Ranch South Side of Rd
+   Near gate.",2004-11-02,"08/04/1995 to 06/09/2004","Inactive",NA,NA,NA,43.595833333,-110.803333333,NA,NA
+"136","D2","TCTD-2","42-116-20bab",0,"433546110474800",22,"T1RDR",19,6,6320,2.6,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.70833333333",60,"5.71","5.71","S","P",20,-5,"24-Jan-95","03-Dec-97",NA,NA,NA,"1.)Permit No. U.W.97020
+2.)""R"" Lazy ""S"" by gate",2004-12-13,"10/20/1994 to 11/16/2004","Inactive",NA,NA,NA,43.5961111116,-110.796666668,NA,NA
+"137","D1","TCTD-1","42-116-20aab",0,"433546110471100",22,"T1RDR",19,6,6324,1.1,"L",NA,0,"09/94",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100 Series",NA,"01-Jun-98","0.70833333333",60,"4.55","4.55","S","P",20,0,"24-Jan-95","16-Sep-97",NA,NA,NA,"1.)Permit No. U.W. 97019
+2.)On ""R"" Lazy ""S"" ranch Next to Levee
+   North of Dirt Rd. Next to Park
+   Boundry.",2004-12-06,"09/23/1994 to 11/16/2004","Inactive",NA,NA,NA,43.5961111116,-110.786388887,NA,NA
+"138","D7","TCTD-7","42-116-21bba",0,"433547110464000",22,"T1RDR",18,7,6326.9,2,"L",NA,0,"09/04/1997",0,"O","111ALVM","WSEO","PRN","TLTXT","TELOG 2102",NA,"Telog 2100E",NA,"02-Jun-98","0.625",60,"2.74","2.74","S","P",20,0,"04-Dec-96","17-Sep-97",NA,NA,NA,"1.)Permit No. U.W.103785
+2.)Moulton ranch",2004-12-07,"12/04/1996 to 06/09/2004","Inactive",NA,NA,NA,43.5963888869,-110.777777777,NA,NA
+"139","TC-15","TC-15","40-116-29cbb",0,"433547110464000",22,"T1RDR",18,6,5989.1,2.1,"L",NA,0,"09/17/1997",0,"O","111ALVM","WSEO","PRN",NA,NA,NA,"Telog 2100E",NA,"04-Jun-98","0.625",60,"5.12","5.12","S","P",20,-5,NA,NA,"OCT","Mean","SL","(1)Permit No. U.W. 107455
+(2)SW Corner of Sewage
+      treatment Plant.",2004-12-01,"09/18/1997 to 11/16/2004","Inactive",NA,NA,NA,43.5963888869,-110.777777777,NA,NA
+"140","GTW3","GTW-3","43-95-25cdc",0,"433933108121901",15,"HSRDR",0,0,4700,1.6,"L",NA,0,NA,0,"O",NA,"USGS",NA,NA,NA,NA,"sutron",NA,NA,NA,60,NA,NA,"S","P",135,100,NA,NA,NA,NA,NA,"Data processed by USGS
+Solar panel owned by seo
+Charge controller is USGS",2008-11-25,"06/22/1983 to 09/22/2008","Inactive",NA,NA,NA,43.6591666647,-108.205277777,NA,NA
+"141","gtw1","GTW-1","43-95-18cba",0,"434136108183301",15,"HSRDR",0,0,4700,1.4,"L",NA,0,NA,0,"O","317TSLP","USGS",NA,NA,NA,NA,"sutron",NA,NA,NA,60,NA,NA,"S","P",275,225,NA,NA,NA,NA,NA,"data processed by the USGS.
+
+05101983 to 09302005 data form USGS",2008-03-04,"05/10/1983 to 11/27/2007","Inactive",NA,NA,NA,43.6933333339,-108.309166668,NA,NA
+"142","WSW1","Townsend WSW #1","44-63-26cac",0,"434539104233401",21,"M2HND",6880,0,3990,1.5,"L",NA,0,NA,0,"H","331MDSN","USGS",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,"S","P",250,125,NA,NA,NA,NA,NA,"production well owned by Butch Twonsend at the Townsend Ranch.  Well is actively used for stock and domestic.
+
+Stopped measuring water level 2/8/2005 per GW administrator due to liability issues",2005-04-06,"03/16/1982 to 10/12/2004","Inactive",NA,NA,NA,43.7608333332,-104.392777779,NA,NA
+"143","CBM-MON-6","CBM-MON-6 (Murray)","45-74-36dad",1,"434943105412001",17,"G1RDR",1220,6,0,0,"L",NA,0,"12/12/98",0,"O","124ULM","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"04-Feb-09","0.41666666667",60,NA,"-553.2","S","P",820,225,NA,NA,NA,NA,NA,"Permit No. U.W. 111597
+State Lessee: Tom Murray
+CH-1 = W/L  Airline = 1050'
+Scale = 0.0'
+Warm up = .05 Sec.
+Offset = 0.0'
+4ma = -1050'
+20 ma = -126'
+CH-2 = Gas
+Scale = 0.0
+Warm up = .05 Sec.
+Offset = 0.0'
+4ma = 0.0'
+20 ma = 924'",2009-02-26,"12/15/1998 to 02/04/2009","Active","OSLI",NA,2025-10-01,43.8281639,-105.6889543,"Hand Measure",111597
+"144","CBM-MON-6G","CBM-MON-6G (Murray)","45-74-36dac02",0,"434943105412002",17,"G1RDR",0,0,0,0,"P","A",2,NA,0,"O","125FRUN","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"04-Feb-09","0.41666666667",60,NA,"0","A","P",0,0,NA,NA,NA,NA,NA,NA,2009-02-26,"11/29/2001 to 07/09/2008","Inactive","OSLI",NA,2025-10-01,43.8281581792,-105.68893962,NA,111597
+"145","WCH-3A","WCH-3A","46-72-36aab",0,"435536105554400",17,"G2HND",578,6,4690,1.6,"L",NA,0,"10/77",0,"O","125FRUN","WSEO",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",250,50,"08-Jul-88","23-Apr-98",NA,NA,NA,"U.W.40079-C.H.I.A. Well",2000-10-06,"07/08/1988 to 09/11/2000","Inactive",NA,NA,NA,43.9266666649,-105.928888889,NA,NA
+"146","Terra","Terra Resources","46-66-25dbb",0,"435610104433001",21,"M2HND",8780,0,4200,0,"L",NA,0,NA,0,"-","331MDSN","USGS",NA,NA,NA,NA,"hand",NA,NA,NA,0,NA,NA,"S","P",1150,1025,NA,NA,NA,NA,NA,"This well has an airline with total length of 1218 feet
+transducer was installed and could not get it to proper placement
+pump colum pulled to retrieve transducer on 8/23/2005
+well will be taken out of the program as of 8/23/2005-per ground water admin",2009-06-04,"06/29/2004 to 05/04/2009","Inactive",NA,NA,NA,43.9361111112,-104.724999999,NA,NA
+"147","CBM-MON-5","CBM-MON-5 (Barrett)","46-74-12ccc01",1,"435816105422701",17,"G1RDR",1520,6,5066,2.1,"L",NA,0,"09/21/99",0,"O","124ULM","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"04-Feb-09","0.375",60,NA,"-1170.7","S","P",1350,300,NA,NA,NA,NA,NA,"Permit No. U.W. 118343                          Ch-2(Cont.)
+Well drilled by Barrett Resources on          4ma = 0.0'
+Lands owned by Terrance Persson           20ma = 924'
+CH-1=W/L Airline 1300'
+Scale= 0.0'
+Warm up = .05 Sec.
+Offset = 0.0'
+4ma = -13",2009-02-26,"10/22/1999 to 02/04/2009","Inactive","Persson",NA,2000-01-01,43.971108,-105.7507937,NA,118343
+"148","CBM-MON-5W","CBM-MON-5W (Barrett)","46-74-12ccc02",2,"435816105422702",17,"G1RDR",1450,6,5066,0.65,"L",NA,0,"09/21/1999",500,"O","124WSTC","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"04-Feb-09","0.375",60,NA,"320.16","S","P",900,500,NA,NA,NA,NA,NA,"(1)Permit No. U.W. 118342
+(2)Well drilled by Barrett Resources on
+    Lands owned by Terrance Persson",2009-02-25,"10/22/1999 to 02/04/2009","Inactive","Persson",NA,2000-01-01,43.971108,-105.7507937,NA,118343
+"149","CBM-MON-5G","CBM-MON-5G (Barrett)","46-74-12CCC03",0,"435816105422703",17,"G1RDR",1520,6,5215,0,"L","A",2,NA,0,"O","125FRUN","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"04-Feb-09","0.375",60,NA,"123.3","S","P",0,250,NA,NA,NA,NA,NA,"GAS PRESSURE CHANNEL OF CBM-MON-5 WELL",2009-02-26,"11/29/2001 to 02/04/2009","Inactive","Persson",NA,2000-01-01,43.971108,-105.7507937,NA,118343
+"150","CBM-MON-4W","CBM-MON-4W (Davis)","47-73-16cbc02",2,"440253105384102",17,"G1RDR",910,6,0,0.48,"L",NA,0,"10/03/98",400,"O","124WSTC","WSEO",NA,NA,NA,NA,"JGS Model 311L",NA,"04-Feb-09","0.45833333333",60,NA,"308.15","S","P",800,350,NA,NA,NA,NA,NA,"Permit No. U.W. 111596
+State Lessee: Tom Davis",2009-02-25,"12/13/1998 to 02/04/2009","Active","OSLI",NA,2025-10-01,44.0481387,-105.6492928,"Hand Measure",111595
+"151","CBM-MON-4","CBM-MON-4 (Davis)","47-73-16cba01",1,"440260105386001",17,"G1RDR",1219,6,0,0.5,"L",NA,0,"09/28/98",0,"O","124ULM","WSEO",NA,NA,NA,NA,"JGS Model 311L",NA,"04-Feb-09","0.45833333333",60,NA,"-1175","S","P",1250,350,NA,NA,NA,NA,NA,"Permit No. U.W. 111595
+State Lessee: Tom Davis
+CH-1 = W/L Airline = 1200'
+Scale = 0.0'
+Warm up = .05 Sec.
+4ma = -1200.0'
+20ma = -276
+CH-2 = Gas
+Scale = 0.0'
+Warm up = 0.5Sec.
+Offset = 0.0'
+4ma = 0.0'
+20 ma = 924'
+
+",2009-02-25,"12/15/1998 to 02/04/2009","Inctive","OSLI",NA,2025-10-01,44.0481387,-105.6492928,NA,111595
+"152","CBM-MON-4G","CBM-MON-4G (Davis)","47-73-16CBA03",0,"440260105386003",17,"G1RDR",0,0,0,0,"L","A",0,NA,0,"O","125FRUN","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"04-Feb-09","0.45833333333",60,NA,"17.6","S","P",0,100,NA,NA,NA,NA,NA,"GAS PRESSURE CHANNEL OF CBM-MON-4 WELL",2009-02-25,"11/29/2001 to 02/04/2009","Inactive","OSLI",NA,2025-10-01,44.0481387,-105.6492928,NA,111595
+"153","Upton #4","Upton #4","48-65-35ccb",0,"440530104381001",21,"M2HND",3190,0,4220,0,"L",NA,0,NA,0,"P","331MDSN","USGS",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,"S","P",200,0,NA,NA,NA,NA,NA,"This well is used for municipal supply for Town of Upton.  Well flows at some times.
+This well is hand measured
+
+data processed by USGS",2009-06-04,"06/29/2004 to 05/04/2009","Inactive",NA,NA,NA,44.0916666651,-104.636111111,NA,NA
+"154","CBM-MON-3W","CBM-MON-3W (Tripp)","48-73-36bcc02",2,"440546105345802",17,"G1RDR",700,6,0,0.5,"L",NA,0,"10/25/98",0,"O","124WSTC","WSEO",NA,NA,NA,NA,"JGS Model 311L",NA,"04-Feb-09","0.5",60,NA,"460.8","S","P",500,200,NA,NA,NA,NA,NA,"Permit No. U.W. 112182
+Stae Lessee: Tripp Bros.",2009-02-25,"12/13/1998 to 02/04/2009","Active","OSLI",NA,2025-10-01,44.0959908,-105.5829846,"Hand Measure",111594
+"155","CBM-MON-3C","CBM-MON-3C (Tripp)","48-73-36bca01",1,"440546105345801",17,"G1RDR",905,6,0,2.1,"L",NA,0,"Oct. 23, 1998",0,"O","124ULM","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"04-Feb-09","0.5",60,NA,"1042.3","S","P",1250,0,NA,NA,NA,NA,NA,"Permit No. U.W. 111594
+State Lessee: Tripp Bros.",2009-02-25,"12/15/1998 to 02/04/2009","Inactive","OSLI",NA,2025-10-01,44.0959908,-105.5829846,NA,111594
+"156","CBM-MON-3G","CBM-MON-3G (Tripp)","48-73-36BCA03",0,"440546105345803",17,"G1RDR",0,0,0,0,"L","A",0,NA,0,"O","125FRUN","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"04-Feb-09","0.5",60,NA,"0","S","P",0,10,NA,NA,NA,NA,NA,"GAS PRESSURE CHANNEL OF CBM-MON-3 WELL",2009-02-25,"11/29/2001 to 02/04/2009","Inactive","OSLI",NA,2025-10-01,44.0959908,-105.5829846,NA,111594
+"157","CBM-MON-1","CBM-MON-1 (Saunders)","49-74-36ddc01",1,"441021105411701",17,"G1RDR",1263,6,0,0,"L",NA,0,"11/13/98",0,"O","124ULM","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"03-Feb-09","0.45833333333",60,NA,"-873.9","S","P",1100,400,NA,NA,NA,NA,NA,"Permit No. U.W. 111591
+State Lessee: Ray Saunders
+CH-1: W/L- Air-line = 1130ft
+Scale 0.0
+Warm up .05 Sec
+Offset 0.0'
+4ma= -1130.0'
+20ma= -206.0'
+CH-2:  Gas
+Scale 0.0
+Warm up = .05 Sec.
+Offset = 0.0'
+4ma =0.0'
+20 ma =924'",2009-02-24,"12/15/1998 to 02/03/2009","Inactive","OSLI",NA,2025-10-01,44.1720024,-105.6959951,NA,111591
+"158","CBM-MON-1W","CBM-MON-1W (Saunders)","49-74-36ddc02",2,"441021105411702",17,"G1RDR",1100,6,0,0.9,"L",NA,0,"06/18/1999",300,"O","124WSTC","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"03-Feb-09","0.45833333333",60,NA,"253.24","S","P",600,450,NA,NA,NA,NA,NA,"(1)Saunders Wasatch Well
+(2)Permit No. U.W. 111591",2009-02-24,"08/17/1999 to 02/03/2009","Active","OSLI",NA,2025-10-01,44.1720024,-105.6959951,"Hand Measure",111591
+"159","CBM-MON-1G","CBM-MON-1G (Saunders)","49-74-36DDC03",0,"441021105411703",17,"G1RDR",0,0,0,0,"L","A",0,NA,0,"O","125FRUN","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"03-Feb-09","0.45833333333",60,NA,"233.9","S","P",0,400,NA,NA,NA,NA,NA,"THIS IS GAS PRESSURE CHANNEL FROM CBMMONITOR WELL",2009-02-24,"11/28/2001 to 02/03/2009","Inactive","OSLI",NA,2025-10-01,44.1719959724,-105.695871674,NA,111591
+"160","BETOP","BTP 4975#8-32","49-75-32abd",0,"441046105534400",17,"G1RDR",1868,9,0,1,"L",NA,0,"02/90",0,"O","125FRUN","WSEO",NA,"311L","L&S 7001 ADR",NA,"Sutron 8400",NA,"13-Jul-04","0.625",60,"134.62","32.02","S","P",200,125,"06-Nov-91","21-Apr-98","JAN","Low","SL",NA,2009-03-05,"11/06/1991 to 02/03/2009","Inactive",NA,NA,NA,44.1794444435,-105.895555554,NA,NA
+"161","STBRYHL2","CCMOW-6 (Madison)","49-62-36cbb01",1,"441113104151001",18,"M1RDR",1283,5,0,0.6,"L",NA,0,"06/94",0,"O","331MDSN","WSEO/USGS",NA,"DC64","L&S 420 DATA LOGGER",NA,"Stevens Model PCM-2",NA,"02-Dec-08","0.45833333333",60,"795.19","-850","S","P",1050,700,"11-Apr-95","07-May-98","OCT","Low","SL","U.W.95317
+td 1283
+cased to 780 - 5 1/2 inch casing
+
+Data processed by USGS",2009-06-05,"04/11/1995 to 05/05/2009","Active","OSLI",NA,2026-10-01,44.18689,-104.25319,"Hand Measure",95317
+"162","STBRYHL1","CCMOW-6A (Minnelusa)","49-62-36cbb02",2,"441113104151002",18,"M1RDR",500,5,5430,0.9,"L",NA,0,"06/94",0,"O","317MNLS","WSEO/USGS",NA,"FC256","L&S GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"28-Aug-08","0.33333333333",60,"264.32","264.57","S","P",280,250,"11-Oct-94","24-Dec-97",NA,NA,NA,"U.W.96807
+
+
+Data processed by USGS",2009-06-05,"10/11/1994 to 05/05/2009","Active","OSLI",NA,2026-10-01,44.1868341,-104.2531326,"Hand Measure",96807
+"163","4-CORNRS","Weston County No. 1A","48-61-36caa02",0,"440544104075200",21,"M1RDR",570,5,0,0.9,"L",NA,0,"06/94",0,"O","317MNLS","WSEO",NA,"FC256","L&S GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"28-Aug-08","0.375",60,"413.47","415.25","S","P",425,400,"01-Jan-94","10-Jan-94","JAN","Low","SL","U.W.95316",2009-06-05,"10/11/1994 to 05/05/2009","Active","OSLI",NA,2026-10-01,44.0950009,-104.1315119,"Hand Measure",95316
+"164","G-MON-8","G-MON-8 (Bell Road)","49-73-26abc",0,"441154105360400",17,"G1RDR",2309,5,4828,1,"L",NA,0,"09/94",0,"O","125FRUN","WSEO",NA,"FC256","L&S GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"18-Dec-07","0.625",60,"643.7","92.64","S","P",750,600,"04-Nov-94","19-Apr-98",NA,NA,NA,"""Bell Road Well""
+Permit UW 96921",2009-03-05,"11/04/1994 to 02/03/2009","Active","Hjorth",NA,2099-12-31,44.1984369,-105.601002,"Hand Measure",96921
+"165","ANT3","Antelope Valley No.3","49-72-13caa",0,"441318105275300",17,"G2HND",2130,16,4695,1.9,"L",NA,0,"07/84",0,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",1200,500,"15-Aug-85","28-Apr-98","JAN","Low","SL","1.)Permit No. U.W. 64375  2.)Air-line =1260.00'",2009-05-18,"08/15/1985 to 05/12/2009","Inactive",NA,NA,NA,44.2216666668,-105.464722222,NA,NA
+"166","G-MON-6","G-MON-6 (Sleepy Hollow)","49-72-13ada",0,"441344105270200",17,"G1RDR",1975,5,4633,1.2,"L",NA,0,"06/94",600,"O","125FRUN","WSEO",NA,"FC256","L&S GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"02-Feb-09","0.625",60,"658.93","62.87","S","P",750,550,"05-Nov-94","21-Apr-98",NA,NA,NA,"""Sleepy Hollow""
+Permit UW 95655
+GS93 recorder SN 037-004792
+Shelter SN 037-002907",2009-03-02,"11/05/1994 to 02/02/2009","Active","Wolff",NA,2099-12-31,44.228823,-105.4506471,"Hand Measure",0
+"167","SLEEPY3","Sleepy Hollow No. 3","49-71-17bbc",0,"441353105261300",17,"G2HND",1473,7,4587,2.5,"L",NA,0,"09/84",0,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",1000,500,"15-Feb-85","21-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 69562  2.)Air-Line = 867.00'
+",2009-03-03,"08/15/1985 to 02/05/2009","Inactive",NA,NA,NA,44.2313888895,-105.436944444,NA,NA
+"168","CREST1","Crestview No. 1","49-72-13bab",0,"441356105274900",17,"G2HND",1550,9,4745,1.5,"L",NA,0,"09/81",0,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",1100,600,"16-Oct-85","21-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 56901  2.)Air-line = 1080
+",2009-03-03,"10/16/1985 to 02/05/2009","Inactive",NA,NA,NA,44.2322222199,-105.463611113,NA,NA
+"169","WIN1","Winland Park No. 1","49-72-11abc",0,"441437105284500",17,"G2HND",1190,12,4595,5.1,"L",NA,0,"02/83",0,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",800,400,"12-Jun-85","21-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 56901 2.)Air-linr = 1080  
+
+well reoved from service, no pump installed, storage tank removed.  Will continue to meaure using new MP of 5.1 alsd.",2008-03-14,"08/13/1985 to 04/05/2007",NA,NA,NA,NA,44.24361111,-105.479166666,NA,NA
+"170","ROCKY1","Rocky Point No. 1","49-72-06cdd",0,"441447105334000",17,"G2HND",1420,9,4751,1.5,"L",NA,0,"12/76",0,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",1000,650,"18-Jul-85","21-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 30208  2.)Air-line = 968.00'",2009-03-03,"09/24/1985 to 02/05/2009","Inactive",NA,NA,NA,44.2463888887,-105.561111111,NA,NA
+"171","G-MON-3","G-MON-3 (Doud Well)","49-72-05ccc",0,"441453105325500",17,"G1RDR",1936,5,4605,0.8,"L",NA,0,"07/94",600,"O","125FRUN","WSEO",NA,"FC256","L&S GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"03-Feb-09","0.41666666667",60,"641.47","146.54","S","P",750,600,"13-Oct-94","27-Feb-98","JAN","Low","SL","""Doud Well""
+Permit UW 95453
+
+GS93 037-004789
+
+SunSaver Charge Controller SS-6L-12V SN 07493031",2009-03-03,"10/13/1994 to 02/03/2009","Active","Jar Capital",NA,2099-12-31,44.24806,-105.54861,"Hand Measure",95453
+"172","CBM-MON-2W","CBM-MON-2W (Bennor)","49-73-03cbd02",2,"441458105373802",17,"G1RDR",750,6,0,0.74,"L",NA,0,"10/14/98",0,"O","124WSTC","WSEO",NA,NA,NA,NA,"JGS Model 311L",NA,"04-Feb-09","0.58333333333",60,NA,"402.15","S","P",500,200,NA,NA,NA,NA,NA,"Permit No. U.W. 111593
+State Lessee: Ellis Bennor",2009-02-24,"02/18/1999 to 02/04/2009","Inactive",NA,NA,2000-01-01,44.2475023584,-105.632035622,NA,111592
+"173","CBM-MON-2G","CBM-MON-2G (Bennor)","49-73-03cbd01",0,"441459105373801",17,"G1RDR",0,0,0,0,"L","A",1,NA,0,"O","125FRUN","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"04-Feb-09","0.625",60,NA,"2.1","S","P",0,250,NA,NA,NA,NA,NA,NA,2009-02-24,"11/28/2001 to 02/04/2009","Inactive",NA,NA,2000-01-01,44.2474655044,-105.631999476,NA,111592
+"174","CBM-MON-2","CBM-MON-2 (Bennor)","49-73-03cbd01",1,"441459105373801",17,"G1RDR",905,6,0,0,"L",NA,0,"10/11/98",0,"O","124ULM","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"04-Feb-09","0.625",60,NA,"-846.2","S","P",900,300,NA,NA,NA,NA,NA,"Permit No. U.W. 111592
+State Lessee: Ellis Bennor
+CH-1 =W/L Airline = 850'
+Scale = 0.0'
+Warm up = 0.5 sec.
+Offset = 0.0
+4ma = -850'
+20 ma = 74'
+CH-2 = Gas
+Scale = 0.0
+Warm up = 0.5 sec.
+Offset= 0.0'
+4ma = 0'
+20ma = 924'",2009-02-24,"12/16/1998 to 02/04/2009","Inactive",NA,NA,2000-01-01,44.2474655044,-105.631999476,NA,111592
+"175","SNBRST#2","Sunburst No. 2","49-72-03dad",0,"441506105293900",17,"G1RDR",1220,7,4650,1.7,"L",NA,0,"04/74",700,"O","125FRUN","WSEO",NA,"FC256","L&S GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"21-Oct-99","0.41666666667",60,"743.64","26.58","S","P",800,700,"26-Jun-96","22-Apr-98",NA,NA,NA,"U.W.1174(Enlarged by U.W. 29612)
+Removed from Service 10/21/99",1999-11-01,"06/26/1996 to 10/21/1999","Inactive",NA,NA,NA,44.2516666653,-105.494166666,NA,NA
+"176","South Camp #1","South Campus No. 1","49-72-04ada",0,"441523105303900",17,"G1RDR",385,6,4565,1.9,"L",NA,0,"Jan. 7, 1999",0,"O","124WSTC","Camp County School Dist.",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"02-Feb-09","0.625",60,NA,"49.92","S","P",60,45,NA,NA,NA,NA,NA,"Campbell County School District
+Permit No. U.W. 112672",2009-03-02,"05/22/2002 to 02/02/2009","Active","Campbell County School District",NA,2099-12-31,44.25639,-105.51083,"Hand Measure",112672
+"177","WENG2","Westridge/Wenger No.2","50-72-32dbb",0,"441606105322400",17,"G2HND",1250,7,4682,1.8,"L",NA,0,"08/77",0,"O","125FRUN","WSEO/City of Gillette",NA,NA,"AIR LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",1200,800,"18-Jul-85","21-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 37169  2.   Air-line = 1279.00'
+
+data on 12/12/2006 from transducer and scada system at city water department",2008-09-16,"09/24/1985 to 07/10/2008","Inactive",NA,NA,NA,44.2683333319,-105.54,NA,NA
+"178","FOX1","Fox Park No. 1","50-71-31aba",0,"441634105260400",17,"G2HND",1175,9,4538,1,"L",NA,0,"03/78",0,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",800,500,"12-Jun-85","21-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 73570  2.)Air-Line =928.00'
+",2009-03-03,"08/14/1985 to 02/05/2009","Inactive",NA,NA,NA,44.2761111107,-105.434444445,NA,NA
+"179","G-MON-5","G-MON-5 (Jail)","50-72-28dcd",0,"441639105305400",17,"G1RDR",1799,5,4621,1.4,"L",NA,0,"07/94",600,"O","125FRUN","WSEO",NA,"FC256","L&S GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"03-Feb-09","0.33333333333",60,"757.66","182.88","S","P",850,700,"13-Oct-94","21-Apr-98",NA,NA,NA,"""Jail Well""
+Permit UW 95666",2009-03-03,"10/13/1994 to 02/03/2009","Active","Campbell County",NA,2099-12-31,44.2773146,-105.5149413,"Hand Measure",95666
+"180","KINTZ#1","Jim Kintz Well","50-73-28cac",0,"441644105383900",17,"G1RDR",1608,7,4860,1.45,"L",NA,0,"7 /78",0,"O","125FRUN","WSEO",NA,"311L","L&S 7001 ADR",NA,"JGS Model 311L",NA,"13-Jul-04","0.58333333333",60,"416.38","18.88","S","P",620,400,"27-Apr-93","16-Dec-97","JAN","Low","SL","well taken offline by Tim Barrit, Wester-Westein 1st quarter 2006.  Well was test pumped by Tim Barrett- TYVO Drilling.  REcovery has been limited post pump test.",2009-03-03,"04/27/1993 to 02/03/2009","Active","Jim Kintz",2025-12-31,2099-12-31,44.2788889,-105.6441667,"Hand Measure",51398
+"181","Moorcroft No. 1","Moorcroft No. 1","50-66-32aaa",0,"441652104481100",18,"M1RDR",3742,95,0,1.37,"L",NA,0,"Aug. 4, 2001",0,"O","331MDSN","WSEO/WWDC",NA,NA,NA,NA,"Stevens Model PCM-2/FC-256 car",NA,"06-May-09","0.54166666667",60,NA,"340.54","S","P",370,320,NA,NA,NA,NA,NA,"(1) City of Moorcroft
+(2)Permit No. U.W. 130979",2009-06-05,"04/03/2002 to 05/06/2009","Inactive",NA,NA,NA,44.2812222229,-104.803055555,NA,NA
+"182","CMPLX#1","CAMPLEX #1","50-72-25acb",0,"441708105272800",17,"G1RDR",1400,10,4516,1.4,"L",NA,0,"4 /88",0,"O","125FRUN","WSEO",NA,"311L","L&S 7001 ADR",NA,"JGS Model 311L",NA,"13-Jul-04","0.375",60,"559.3","57.52","S","P",725,525,"19-Jun-93","21-Apr-98","OCT","Low","SL","U.W.78118
+7/13/2004 installed sutron 8400A sn111029, inventory tag 037-005099",2009-03-05,"06/19/1993 to 02/02/2009","Active","Campbell County",NA,2099-12-31,44.2854334,-105.4577546,"Hand Measure",78118
+"183","DTC2","Sullivan No. 3","50-72-25aad",0,"441721105270000",17,"G2HND",775,7,4497,1.6,"L",NA,0,"11/83",0,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",500,300,"11-Jun-85","22-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 60751    2.)Air-Line = 500'",2009-03-03,"08/14/1985 to 02/05/2009","Inactive",NA,NA,NA,44.2891666661,-105.449999999,NA,NA
+"184","CH1","Collins No. 1","50-71-19dcb",0,"441733105261300",17,"G2HND",1234,5,4591,1,"L",NA,0,"08/72",0,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",700,525,"11-Jun-85","19-Aug-96",NA,NA,NA,"1.)Permit No. U.W. 32992   2.)Air-Line = 729.00
+",1998-05-29,NA,"Inactive",NA,NA,NA,44.2924999987,-105.436944444,NA,NA
+"185","G-MON-4","G-MON-4 (Old Fair Ground)","50-72-21dda",0,"441736105304200",17,"G1RDR",2371,5,4557,1.5,"L",NA,0,"07/94",600,"O","125FRUN","WSEO",NA,"FC256","L&S GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"09-Aug-08","0.45833333333",60,"757.2","181.3","S","P",800,650,"13-Oct-94","17-Dec-97","JAN","Low","SL","""Old Fairgrounds Well""
+Permit UW 95665",2009-03-02,"10/13/1994 to 02/02/2009","Active","Campbell County; Council of Community Services Inc",NA,2099-12-31,44.2934426,-105.5115859,"Hand Measure",95665
+"186","G-MON-2","G-MON-2 (Warlow)","50-72-24bcc",0,"441757105280900",17,"G1RDR",1999,5,4499,1.8,"P",NA,0,"07/94",800,"O","125FRUN","WSEO",NA,"FC256","L&S GS-93","FC256","Stevens Model PCM-2/FC-256 car",NA,"02-Feb-09","0.41666666667",60,"642.7","174.4","S","P",800,500,"05-Nov-94","22-Apr-98","OCT","Low","SL","""Warlow Well""
+Permit UW 95452
+Shelter SN# 037-002900",2009-03-02,"11/05/1994 to 02/02/2009","Active","OSLI",NA,NA,44.2992194,-105.469217,"Hand Measure",95452
+"187","H13","Gillette H-13","50-072-21aba0",0,"441819105305701",17,"G2HND",0,0,4500,-6.35,"L",NA,0,NA,0,"O","124WSTC","WSEO",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,"S","P",100,45,NA,NA,NA,NA,NA,"well was a continuous recorder well published by USGS.  Is to be decommissioned by City of Gillette.  Hand measurements will be taken until decommissioned. daily unit values from USGS through june 2001
+
+Well abandoned in early 2007 per Dianne Monahan of",2007-03-06,"06/12/1983 to 12/12/2006","Inactive",NA,NA,NA,44.3052777787,-105.515833335,NA,NA
+"188","A-3","H.V. Anderson No. 3","50-72-14dbd",0,"441836105284600",17,"G2HND",1000,7,4468,1.6,"L",NA,0,"09/76",0,"O","125FRUN","WSEO","TXT","TLTXT","AIR-LINE",NA,"Telog 2100 Series",NA,"03-Aug-95","0",60,"3.6","3.6","A","P",0,0,"25-Feb-92","22-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 33293 2.)Air-Line = 828'",2003-07-09,"02/25/1992 to 06/24/2003","Inactive",NA,NA,NA,44.3100000002,-105.479444446,NA,NA
+"189","HV4","H.V. Anderson No. 4","50-72-14caa",0,"441837105290300",17,"G2HND",1002,7,4477,1.2,"L",NA,0,"09/77",0,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",570,700,"14-Aug-85","22-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 33294  2.)Air-Line = 1012'",1998-05-29,NA,"Inactive",NA,NA,NA,44.3102777755,-105.484166668,NA,NA
+"190","HV1","Heritage Village No. 1","50-72-14cac",0,"441848105284600",17,"G2HND",1545,9,4479,1.8,"L",NA,0,"05/82",1.8,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",850,600,"12-Jun-85","22-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 57954  2.)Air-line = 854.00'",2009-03-03,"08/14/1985 to 02/05/2009","Inactive",NA,NA,NA,44.3133333329,-105.479444446,NA,NA
+"191","GRVLPIT","CCMOW-8","50-62-16cbc",1,"441860104184901",18,"M1RDR",812,5,0,0.8,"L",NA,0,"06/94",0,"O","331MDSN","WSEO",NA,"FC256","L&S GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"28-Aug-08","0.29166666667",60,"489.81","409.21","S","P",550,450,"22-Jul-94","07-May-98","JAN","Low","SL","U.W. 95320",2009-06-05,"09/01/1994 to 05/05/2009","Active","OSLI",NA,2026-10-19,44.31647,-104.31425,"Hand Measure",95320
+"192","G-MON-1","G-MON-1 (Sports Bar)","50-72-16bbb",0,"441911105314700",17,"G1RDR",1640,5,4447,1.8,"L",NA,0,"7/94",500,"O","125FRUN","WSEO","SDF","FC256","L&S GS-93","FC256","Stevens Model PCM-2",NA,"02-Feb-09","0.70833333333",60,"584.34","140.28","S","P",650,500,"13-Oct-94","22-Apr-98","JAN","Low","SL","Sports Bar Well
+Permit UW 95451
+
+Sunsaver Charge Controller ss-6L-12V SN 07493036",2009-02-24,"10/13/1994 to 02/02/2009","Active","Campbel County",NA,NA,44.319885,-105.529669,"Hand Measure",95451
+"193","G-MON-7","G-MON-7 (Maki)","50-72-11cba",0,"441935105291400",17,"G1RDR",1584,5,4427,1.2,"L",NA,0,"07/94",0,"O","125FRUN","WSEO",NA,"FC256","L&S GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"27-Nov-01","0.54166666667",60,"469.81","171.62","S","P",650,400,"04-Nov-94","22-Apr-98",NA,NA,NA,"""maki well""
+Permit UW 95667",2004-03-18,"11/04/1994 to 12/16/2003","Inactive",NA,NA,NA,44.3263888882,-105.487222222,NA,NA
+"194","UPTONRD","CCMOW-7 (Madison)","50-63-11cda",0,"441943104231300",18,"M1RDR",1480,5,0,1.2,"L",NA,0,"07/94",0,"O","331MDSN","WSEO",NA,"FC256","L&S GS-93",NA,"Sutron",NA,"20-May-08","0.33333333333",60,"417.33","437.48","S","P",500,375,"11-Oct-94","05-May-98",NA,NA,NA,"U.W. 95802",2009-06-04,"10/11/1994 to 05/06/2009","Active","Schelldorf Ranches LLC",NA,2099-12-31,44.3286553,-104.3875787,"Hand Measure",95802
+"195","CCAIR","Campbell Co. Airport","51-72-32ddd",0,"442060105315700",17,"G2HND",1130,7,4329,1,"L",NA,0,"07/84",0,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",700,300,"18-Jul-85","22-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 63913  2.)Air-Line = 596.01'",2009-03-03,"09/24/1985 to 02/05/2009","Inactive",NA,NA,NA,44.35,-105.532500001,NA,NA
+"196","KONTNO#2","Rawhide Village No. 2","51-72-20abd",0,"442321105316000",17,"G1RDR",1097,7,4321,1.6,"L",NA,0,"11/76",0,"O","125FRUN","WSEO",NA,"311L","L&S 7001 ADR",NA,"Stevens Model PCM-2",NA,"12-Dec-06","0.54166666667",60,"383.35","-394.7","S","P",450,350,"22-Mar-94","22-Apr-98","JAN","Low","SL","Sutron Monitor and Transducer installed 02/03/2009
+transducer Keller America 400psi, SN 476, PN 0507.02502.050145.54
+Monitor SN 809444, SEO # 037-005724",2009-03-05,"03/22/1994 to 02/03/2009","Active","Eagle Specialty Materials LLC",NA,2099-12-31,44.3890769,-105.5332581,"Hand Measure",70619
+"197","PV1","Prospector Village No. 1","51-72-17cca",0,"442339105323400",17,"G2HND",1100,7,4369,2.1,"L",NA,0,"11/76",0,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,NA,NA,NA,"0",0,"0","0","S","P",700,300,"28-Feb-78","22-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 34920   2.)Air-Line = 750.00'",2009-03-03,"09/24/1985 to 02/05/2009","Inactive",NA,NA,NA,44.3941666672,-105.542777779,NA,NA
+"198","PV2","Prospector Village No. 2","51-72-17ccb",0,"442342105324900",17,"G2HND",1130,9,4399,1.6,"L",NA,0,"03/80",0,"O","125FRUN","WSEO",NA,NA,"AIR-LINE",NA,"JGS Model 311L",NA,NA,"0",0,"0","0","S","P",800,400,"16-Aug-85","22-Apr-98",NA,NA,NA,"1.)Permit No. U.W. 44003   2.)Air-Line = 861.00'",2009-03-03,"10/17/1985 to 02/05/2009","Inactive",NA,NA,NA,44.3949999976,-105.546944445,NA,NA
+"199","RWATSON3","CCMOW-3","51-62-2dcb",0,"442560104155100",18,"M1RDR",0,5,4540,0,"L",NA,0,"09/91",0,"O","331MDSN","WSEO","DAT","311L","L&S 7001",NA,"Stevens Model PCM-2",NA,"05-May-09","0.58333333333",60,"515.37","-600","S","P",650,450,"01-Nov-91","06-May-98",NA,NA,NA,"U.W.85422
+
+This transducer reads like an airline.  
+
+total transducer length minus water level from trans is water level.",2009-06-05,"11/01/1991 to 05/05/2009","Inactive",NA,NA,NA,44.4333333332,-104.264166666,NA,NA
+"200","VSTWST#2","VISTA WEST NO. 2","51-63-04ada",0,"442617104251100",18,"M1RDR",1065,7,5820,1,"L",NA,0,"10/92",0,"O","331MDSN","WSEO",NA,"FC256","L&S GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"27-Aug-08","0.29166666667",60,"64.6","64.25","S","P",100,50,"13-Jun-96","05-May-98",NA,NA,NA,"U.W. 89500 (Cancelled); U.W. 101321",2008-09-10,"06/13/1996 to 08/27/2008","Active","USFS",NA,2099-12-31,44.4378333,-104.42,"Hand Measure",101321
+"201","RCH-2","RCH-2","52-73-36ada01",1,"442643105342201",17,"G2HND",422,6,4220,1.5,"L",NA,0,"12/77",0,"O","125FRUN","WSEO",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",200,100,"07-Apr-88","08-Jul-97",NA,NA,NA,"U.W.40770- C.H.I.A. Well
+
+plugged and abandoned by Rawhide Mine.Last quarter of 1999
+well was producing methane gas from coal seam.",1998-05-29,NA,"Inactive",NA,NA,NA,44.4452777784,-105.572777777,NA,NA
+"202","RCH-2A","RCH-2A","52-73-36ada02",2,"442643105342202",17,"G2HND",422,6,4220,1.25,"L",NA,0,"12/77",0,"O","125FRUN","WSEO",NA,NA,"HAND MEASURED",NA,"JGS Model 311L",NA,NA,"0",60,"0","0","S","P",125,0,"07-Apr-88","22-Apr-98",NA,NA,NA,"U.W.40771- C.H.I.A. Well
+
+well removed form service by mine.  well cap glued on due to methane.",2006-06-16,"07/08/1988 to 03/28/2006","Inactive",NA,NA,NA,44.4452777784,-105.572777777,NA,NA
+"203","RCH-2B","RCH-2B","52-73-36ada03",3,"442643105342203",17,"G2HND",33,6,4220,1.3,"L",NA,0,"12/77",0,"O","124WSTC","WSEO",NA,NA,"HAND MEASURED",NA,NA,NA,NA,"0",0,"0","0","S","P",35,15,"08-Jul-88","22-Apr-98",NA,NA,NA,"U.W.40772- C.H.I.A Well",2009-03-02,"07/08/1988 to 02/03/2009","Inactive","OSLI",NA,2022-04-21,44.4452777784,-105.572777777,NA,NA
+"204","PINEBU#1","Pine Buttes No. 1","52-73-25bcb",0,"442739105352700",17,"G1RDR",2820,9,4525,0.9,"L",NA,0,"10/93",0,"O","125FRUN","WSEO/WWDC",NA,"FC256","GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"19-Dec-07","0.54166666667",60,"554.5","951.3","S","P",700,500,"27-Apr-95","22-Apr-98","JAN","Low","SL","UW 98109 (can)",2009-03-05,"04/27/1995 to 02/03/2009","Inactive",NA,NA,2000-01-01,44.4607265225,-105.590990239,NA,NA
+"205","Cole3A","Cole3A","52-63-25dcd",0,"442739104214601",18,"M2HND",1120,0,4740,0,NA,NA,0,NA,0,"P","331MDSN","USGS",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,"S","P",600,400,NA,NA,NA,NA,NA,"This is Town of Sundance Municipal well
+
+well is measured using airline - total length 640feet blsd
+
+data processed by USGS
+
+P8377W adj no conditions or limitations, P72181W (pulled for cancellation 5/6/2008, TF 36/5/604W (rej)",2008-06-25,"06/30/2004 to 11/27/2007","Inactive",NA,NA,NA,44.4608333327,-104.362777777,NA,NA
+"206","SIMNS-5A","CCMOW-5A (Minnelusa)","53-61-32ddd01",1,"443157104113801",18,"M1RDR",580,5,4000,0.3,"L",NA,0,"08/91",0,"O","317MNLS","WSEO","DAT","311L","L&S 7001",NA,"sutron",NA,"26-Aug-08","0.66666666667",60,"373.15","382.06","S","P",425,350,"01-Nov-91","06-May-98",NA,NA,NA,"U.W.85806
+
+Minnelusa Formation Completion",2009-06-04,"11/01/1991 to 05/05/2009","Active","Simons",NA,2000-01-01,44.5324729,-104.1946152,"Hand Measure",85806
+"207","SIMNS-5","CCMOW-5 (Madison)","53-61-32ddd02",2,"443157104113802",18,"M1RDR",867,5,4000,0.5,"L",NA,0,"08/91",0,"O","331MDSN","WSEO","DAT","311L","L&S 7001",NA,NA,NA,"01-Jul-04","0.29166666667",60,"186.37","41.06","S","P",225,175,"01-Nov-91","06-May-98",NA,NA,NA,"U.W.85805
+madison formation
+
+Sutron Recorder
+
+This well is SEO operated and processed
+
+west well in pair",2009-06-04,"11/01/1991 to 05/05/2009","Active","Simons",NA,2000-01-01,44.53247,-104.19469,"Hand Measure",85805
+"208","NPSTower","NPS Devils Tower","53-65-18bbd",0,"443453104425602",18,"M2HND",1340,0,3865,0,"L",NA,0,NA,0,"P","331MDSN","USGS/NPS",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,"S","P",55,20,NA,NA,NA,NA,NA,"This is a water supply well at devils tower national monument.  Located behing maintenance shop.  Contact is Rod Jahning or Bill Yett
+
+data published by USGS",2009-06-04,"06/30/2004 to 05/06/2009","Inactive",NA,NA,NA,44.5813888871,-104.715555556,NA,NA
+"209","STATELN2","CCMOW-2A (Minnelusa)","53-60-16dba02",2,"443455104032302",18,"M1RDR",1300,5,3480,0,"L","A",2,"09/91",0,"O","317MNLS","WSEO","CSV","CSV","L&S AXSYS",NA,NA,NA,"05-May-09","0.5",60,"50.83","38.45","S","P",0,60,"30-Oct-91","06-May-98",NA,NA,NA,"U.W. 85421
+
+53-60-16(N1/2 Lot2)O.S.",2009-06-05,"10/30/1991 to 05/05/2009","Active","OSLI",NA,2021-11-01,44.5819825,-104.0569767,"Stevens DLight Logger",85421
+"210","STATELN1","CCMOW-2 (Madison)","53-60-16dba01",1,"443455104032301",18,"M1RDR",1539,5,3480,0,"L","A",1,"07/91",0,"O","331MDSN","WSEO","CSV","FC256","L&S AXSYS",NA,"Stevens Model PCM-2/FC-256 car",NA,"05-May-09","0.5",60,"168.63","145.6","S","P",125,175,"27-Jun-91","06-May-98",NA,NA,NA,"U.W.85420                       
+
+53-60-16(N1/2 Lot2)",2009-06-05,"06/27/1991 to 05/05/2009","Active","OSLI",NA,2021-11-01,44.58197,-104.05705,"Stevens DLight Logger",85420
+"211","AWD#1","Aladdin Water Dist. No. 1","54-61-28caa",0,"443827104110100",18,"M1RDR",2035,10,3708,2.1,"L",NA,0,"09/95",0,"O","331MDSN","WSEO/WWDC",NA,"FC256","GS-93",NA,"Stevens Model PCM-2/FC-256 car",NA,"03-Aug-00","0.625",60,"38.1","32.22","S","P",80,25,"06-Sep-95","06-May-98",NA,NA,NA,"Permit No. U.W. 99756",2009-06-04,"09/06/1995 to 05/05/2009","Inactive",NA,NA,NA,44.6408333322,-104.183611111,NA,NA
+"212","Cole41A","Cole 41A  Minnelusa","56-067-28aab",0,"444854104534502",18,"M1RDR",2230,0,4500,1.2,"L",NA,0,NA,0,"O","317MNLS","USGS",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"27-Aug-08","0.45833333333",60,NA,"161.2","S","P",180,100,NA,NA,NA,NA,NA,"GS93 recorder
+
+Drilled as monitor well to watch connection between Madison (Cole41 well permit UW 53809) and Minnelusa formation (this well under Permit UW 56062).
+
+Current permit on well is UW 63295",2009-06-04,"06/08/1983 to 05/06/2009","Inactive","Busnitz",NA,2000-01-01,44.815,-104.892777778,NA,NA
+"213","U.S.G.S. M-1","USGS M-1","57-65-15dac",0,"445544104383600",18,"M2HND",4341,8,3604,0.5,"L","A",0,"10/25/1976",0,"O","331MDSN","WSEO",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,"S","P",0,125,NA,NA,NA,NA,NA,"1.)Permit No. U.W.32396
+2.)USGS Madison Formation Test Well",2009-06-04,"06/07/1982 to 05/06/2009","Active","BLM",NA,2000-01-01,44.92894,-104.64425,"Hand Measure",32396
+"214","LC15","Laramie Co. No. 15","14-66-23ddd",0,"410937104435401",2,"L1RDR",0,0,0,0,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,NA,NA,"22-Jan-09","0.58333333333",60,NA,"1.12","S","P",150,70,NA,NA,NA,NA,NA,NA,2009-02-04,"04/25/1986 to 01/22/2009","Inactive","ROW",NA,2099-12-31,41.1604097009,-104.731939699,NA,NA
+"215","LC16","Laramie Co. No. 16","14-66-02dcc",0,"411241104442301",2,"L1RDR",495,5,0,1.2,"L",NA,0,"2004",0,"O","121OGLL","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"24-Nov-08","0.20833333333",60,NA,"181.6","S","P",200,170,NA,NA,NA,NA,NA,"New installation in 2004
+GS 93 SN WY-037-003077
+Wrangler road, 3.4 mile east of #8 well",2009-02-04,"08/10/2004 to 01/22/2009","Active","OSLI / Child",2019-07-01,2024-07-01,41.2035793,-104.7403727,"InSitu Level, Baro",0
+"216","horsecrk1","WYDOT Horse Creek #1","15-67-36cd",0,"411314104502101",2,"L2HND",0,0,0,0,"L",NA,0,NA,0,NA,NA,"WSEO",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,"S","P",175,100,NA,NA,NA,NA,NA,"Well is located on NW corner of Horse Creek Road and I-25 intersection.",2009-02-04,"05/11/2000 to 01/22/2009","Inactive","WYDOT",NA,NA,41.220644198,-104.8394191,NA,NA
+"217","lcno1","Laramie Co. No. 1","12-60-07ddd",0,"410059104072401",2,"L1RDR",120,0,5176,1.7,"L",NA,0,NA,0,"O","123BRUL","USGS",NA,NA,NA,NA,NA,NA,"27-Apr-06","0.41666666667",60,NA,"33.58","S","P",50,0,NA,NA,NA,NA,NA,"data processed by USGS, this data for SEO internal use only
+data prior to 10/1/2004 daily values from USGS ground water database",2009-02-04,"04/06/1978 to 01/21/2009","Active","ROW",NA,2099-12-31,41.0163105,-104.1241368,"Hand Measure",0
+"218","LCNo4","Laramie Co. No. 4","15-62-20aaa",0,"411531104194701",2,"L2HND",165,0,5510,1,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,"S","P",110,95,NA,NA,NA,NA,NA,"Data Collected by WSEO, processed and published by USGS",2009-02-04,"04/10/1978 to 01/21/2009","Active","ROW",NA,2099-12-31,41.2587386,-104.3300463,"Hand Measure",0
+"219","mxnorth","MX NORTH b-1","17-67-33bab",0,"412400104533901",2,"L1RDR",200,0,6425,1.4,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"Sutron 8400",NA,"26-Jan-06","0.54166666667",60,NA,"49.65","S","P",160,120,NA,NA,NA,NA,NA,"Data Processed by USGS-these reords for internal use only",2009-02-04,"09/26/1984 to 01/22/2009","Active","Samuelson: Budd Falen",NA,2099-12-31,41.4069459,-104.8993231,"Hand Measure",0
+"220","P-NE TA19","Ponderosa/NE TA19","17-58-31dcc",0,"412346104030701",2,"L2HND",0,0,0,2.6,"L",NA,0,NA,0,"-","122ARKR","Appropriator",NA,NA,NA,NA,"hand measure - production well",NA,NA,NA,0,NA,NA,"S","P",300,220,NA,NA,NA,NA,NA,"No SEO permit, well is in NE.",2008-11-03,"12/17/1996 to 09/16/2008","Inactive",NA,NA,NA,41.3962804549,-104.052563445,NA,NA
+"221","ppark","Pioneer Park","14-067-36acb",0,"410827104501601",2,"L1RDR",24,0,6099,0,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"23-Jan-07","0.58333333333",60,NA,"8.08","S","P",10,0,NA,NA,NA,NA,NA,"daily values from usgs",2009-02-04,"08/11/1989 to 01/22/2009","Inactive","City of Cheyenne",NA,2099-12-31,41.1416443838,-104.838975495,NA,NA
+"222","lcno10","Laramie Co. No. 10","14-67-12abb",0,"411213104501401",2,"L1RDR",220,0,6230,1.25,"L",NA,0,NA,0,"O","121OGLL","USGS",NA,NA,NA,NA,"JGS Model 311L",NA,"22-Jan-09","0.45833333333",60,NA,"104.29","S","P",130,80,NA,NA,NA,NA,NA,"daily values from usgs",2009-02-04,"08/02/1984 to 01/22/2009","Active","ROW",NA,NA,41.2036994,-104.8375397,"InSitu Level, Baro",0
+"223","rowley1","Rowley #1","14-66-08cbc",0,"411147104483001",2,"L2HND",0,0,0,0,"L",NA,0,NA,0,"U","121OGLL","WSEO",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,"S","P",175,125,NA,NA,NA,NA,NA,"hand measured well",2009-02-04,"04/22/2003 to 01/22/2009","Inactive","Jeffrey Frost",NA,NA,41.194692152,-104.807957902,NA,NA
+"224","LC17","Laramie Co. No. 17","14-65-08bbb",0,"411210104413101",2,"L1RDR",501,5,0,2,"L",NA,0,"2004",0,"O","121OGLL","WSEO",NA,NA,NA,NA,"Stevens Model PCM-2",NA,"22-Jan-09","0.58333333333",60,NA,"134.45","S","P",135,125,NA,NA,NA,NA,NA,"new installed 8/4/2004
+
+GS 93 SN wy-037-003435
+
+located on christiansen road",2009-02-12,"08/12/2004 to 01/22/2009","Active","OSLI / Child",2019-07-01,2024-07-01,41.2027494,-104.692685,"InSitu Level, Baro",0
+"225","BC-23","Bates Creek No. 23",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,"WSEO",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive","ROW",NA,2000-01-01,42.6587777778,-106.601583333,NA,NA
+"226","BC-27","Bates Creek No. 27",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive","Whisler LivTr",NA,2000-01-01,42.6533611111,-106.562194444,NA,NA
+"227","USGS-3","Bates Observation #3",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive","Bates Creek Cattle",NA,2099-12-31,42.6630555556,-106.52625,NA,NA
+"228","BC-8","Bates Creek No. 8",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive","Bates Creek Cattle",NA,2099-12-31,42.6550833333,-106.501861111,NA,NA
+"229","BC-26","Bates Creek No. 26",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive","Bates Creek Cattle",NA,2099-12-31,42.65075,-106.487305556,NA,NA
+"230","BC-13","Bates Creek No. 13",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive","ROW",NA,2000-01-01,42.6483888889,-106.4325,NA,NA
+"231","BC-30","Bates Creek No. 30",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive","ROW",NA,2000-01-01,42.6451666667,-106.424083333,NA,NA
+"232","BC-7","Bates Creek No. 7",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.6650555556,-106.570722222,NA,NA
+"233","USGS-1","Bates Observation #1",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.678082,-106.5665855,NA,NA
+"234","USGS-2","Bates Observation #2",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.6801064,-106.5161789,NA,NA
+"235","USGS-4","Bates Observation #4",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"ABA","Bates Creek Cattle",NA,2099-12-31,42.6531388889,-106.486027778,NA,NA
+"236","BC-22","Bates Creek No. 22",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"ABA","Bates Creek Cattle",NA,2099-12-31,42.6500694444,-106.477722222,NA,NA
+"237","BC-21","Bates Creek No. 21",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.6507405,-106.4860534,NA,NA
+"238","BC-25","Bates Creek No. 25",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.658,-106.467111111,NA,NA
+"239","BC-16","Bates Creek No. 16",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.6607407,-106.4776928,NA,NA
+"240","BC-29","Bates Creek No. 29",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.6609322,-106.4628143,NA,NA
+"241","BC-28","Bates Creek No. 28",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.6620555556,-106.464472222,NA,NA
+"242","BC-24","Bates Creek No. 24",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.6442926,-106.4262558,NA,NA
+"243","BC-1","Bates Creek No. 1",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive","ROW",NA,NA,42.6687167379,-106.593639253,NA,NA
+"244","SRock-3","Split Rock #3",NA,0,NA,6,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.399666384,-107.251165912,NA,NA
+"245","SRock-4","Split Rock #4 (Production Well)",NA,0,NA,6,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.3991657133,-107.251250532,NA,NA
+"246","SRock-1","Split Rock #1",NA,0,NA,6,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.3979442353,-107.251971775,NA,NA
+"247","UPRushCr","Upper Rush Creek",NA,0,NA,6,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.2958256661,-107.229818721,NA,NA
+"248","MidRushCr","Middle Rush Creek",NA,0,NA,6,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"ABA",NA,NA,NA,42.3186716503,-107.217968763,NA,NA
+"249","ARFlats","Arkansas Flats",NA,0,NA,6,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.3301399333,-107.180864657,NA,NA
+"250","SunRanch","Sun Ranch",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.4381308978,-107.246884206,NA,NA
+"251","CherryCrk","Cherry Creek Bridge",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.4385002433,-107.272613558,NA,NA
+"252","JacksonLk","Jackson Lake",NA,0,NA,6,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"ABA",NA,NA,NA,42.4301673815,-107.347198586,NA,NA
+"253","SwtWtrBridge","Sweetwater Bridge",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"ABA",NA,NA,NA,42.451777468,-107.329387595,NA,NA
+"254","TurkeyTrkA","Turkey Track Ranch A",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"ABA",NA,NA,NA,42.483118259,-107.389236473,NA,NA
+"255","TurkeyTrkB","Turkey Track Ranch B",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"ABA",NA,NA,NA,42.4832084593,-107.389195645,NA,NA
+"256","TurkeyTrkC","Turkey Track Ranch C",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"ABA",NA,NA,NA,42.483289564,-107.389162519,NA,NA
+"257","TurkeyTrkD","Turkey Track Ranch D",NA,0,NA,1,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"ABA",NA,NA,NA,42.4833942247,-107.389142361,NA,NA
+"258","MuddyGp2","Muddy Gap No. 2",NA,0,NA,6,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,NA,42.3858091451,-107.462764699,NA,NA
+"259","MuddyGp1","Muddy Gap No. 1",NA,0,NA,6,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"ABA",NA,NA,NA,42.4067503807,-107.494705449,NA,NA
+"260","WillowCr","Willow Creek",NA,0,NA,10,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"ABA",NA,NA,NA,42.3930319249,-107.541758947,NA,NA
+"261","UpCherryCrk","Upper Cherry Creek",NA,0,NA,6,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"ABA",NA,NA,NA,42.3309459323,-107.302191975,NA,NA
+"262","FNST-WR","Fornstrom White River","16-60-32dca02",0,NA,2,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Active","Fornstrom",NA,2099-12-31,41.3048094,-104.1060594,"Hand Measure",0
+"263","FNST-FH","Fornstrom Fox Hills",NA,0,NA,2,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,2099-12-31,41.3042795234,-104.107130007,NA,NA
+"264","Scheel-FH","Scheel WSW No. 1 Fox Hills",NA,0,NA,2,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,2000-01-01,41.3172200034,-104.170060474,NA,NA
+"265","Scheel-WR","Scheel WSW No. 1 White River","16-61-26cdc03",0,NA,2,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Active","Loubrycin LLC",NA,NA,41.317141,-104.1698051,"Hand Measure",0
+"266","Shatto-FH","Shatto Fox Hills",NA,0,NA,2,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Inactive",NA,NA,2099-12-31,41.1141092864,-104.646470477,NA,NA
+"267","Shatto-WR","Shatto White River","13-65-10abb02",0,NA,2,NA,0,0,0,0,NA,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,1899-12-30,NA,"Active","Shatto",NA,2099-12-31,41.114457,-104.6466754,"Hand Measure",0
+"268","CS1","Cody Smith #1","13-63-36bac",0,NA,2,"Cro",86.6,6,0,2,NA,NA,0,NA,0,NA,NA,"WSEO",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,"Incorporated as part of Crow Creek Investigation",1899-12-30,NA,"SEO Only","Cody Smith",1899-12-30,NA,41.0539215,-104.3827752,"InSitu Level, Baro",0
+"269","CarpCem1","Carpenter Cemetery #1","13-62-31ccc",0,NA,2,"Cro",85,0,0,-7,NA,NA,0,NA,0,NA,NA,"WSEO",NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,NA,NA,NA,NA,NA,"Incorporated as part of Crow Creek Investigation",1899-12-30,NA,"SEO Only","Carpenter Cemetery",1899-12-30,NA,41.042636,-104.3698858,"InSitu Level",0

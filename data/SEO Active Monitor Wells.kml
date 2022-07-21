@@ -1,0 +1,1820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SEO Active Monitor Wells</name>
+	<StyleMap id="icon-1899-1A237E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-1A237E-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-1A237E-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-6.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1899-AFB42B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-AFB42B-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-AFB42B-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-1899-0097A7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0097A7-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-097138-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-5.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1899-01579B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-01579B-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-01579B-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-F9A825-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-3.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-097138-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-5.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-01579B-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-7.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-1A237E-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-6.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1899-097138">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-097138-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-097138-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-1899-E65100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-E65100-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-E65100-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-0097A7-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-8.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1899-F9A825">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-F9A825-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-AFB42B-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-4.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-AFB42B-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-4.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1899-880E4F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-880E4F-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-F9A825-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-3.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-01579B-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-7.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-880E4F-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-1.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-880E4F-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-1.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-0097A7-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-8.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-E65100-highlight">
+		<IconStyle>
+			<Icon>
+				<href>icon-2.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-E65100-normal">
+		<IconStyle>
+			<Icon>
+				<href>icon-2.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Albany MW.csv</name>
+		<Placemark>
+			<name>Huntoon No. 1</name>
+			<description><![CDATA[Long: -105.5239717<br>Lat: 41.2975687]]></description>
+			<styleUrl>#icon-1899-880E4F</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.5239717</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.2975687</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.5239717,41.2975687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Huntoon No. 2</name>
+			<description><![CDATA[Long: -105.5286575<br>Lat: 41.2840486]]></description>
+			<styleUrl>#icon-1899-880E4F</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.5286575</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.2840486</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.5286575,41.2840486,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Campbell MW.csv</name>
+		<Placemark>
+			<name>Camplex #1</name>
+			<description><![CDATA[Long: -105.4577546<br>Lat: 44.2854334]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.4577546</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.2854334</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.4577546,44.2854334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CBM-MON-1W (Saunders)</name>
+			<description><![CDATA[Long: -105.6959951<br>Lat: 44.1720024]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.6959951</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.1720024</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.6959951,44.1720024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CBM-MON-3W (Tripp)</name>
+			<description><![CDATA[Long: -105.5829846<br>Lat: 44.0959908]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.5829846</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.0959908</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.5829846,44.0959908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CBM-MON-4W (Davis)</name>
+			<description><![CDATA[Long: -105.6492928<br>Lat: 44.0481387]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.6492928</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.0481387</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.6492928,44.0481387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CBM-MON-5W (Barrett)</name>
+			<description><![CDATA[Long: -105.7507937<br>Lat: 43.971108]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.7507937</value>
+				</Data>
+				<Data name="Lat">
+					<value>43.971108</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.7507937,43.971108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CBM-MON-6 (Murray)</name>
+			<description><![CDATA[Long: -105.6889543<br>Lat: 43.8281639]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.6889543</value>
+				</Data>
+				<Data name="Lat">
+					<value>43.8281639</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.6889543,43.8281639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CBM-MON-7W (Stuart)</name>
+			<description><![CDATA[Long: -105.4659038<br>Lat: 43.72082]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.4659038</value>
+				</Data>
+				<Data name="Lat">
+					<value>43.72082</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.4659038,43.72082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>G-MON-1 (Sports Bar)</name>
+			<description><![CDATA[Long: -105.529669<br>Lat: 44.319885]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.529669</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.319885</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.529669,44.319885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>G-MON-2 (Warlow)</name>
+			<description><![CDATA[Long: -105.469217<br>Lat: 44.2992194]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.469217</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.2992194</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.469217,44.2992194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>G-MON-3 (Doud Well)</name>
+			<description><![CDATA[Long: -105.54861<br>Lat: 44.24806]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.54861</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.24806</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.54861,44.24806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>G-MON-4 (Old Fair Ground)</name>
+			<description><![CDATA[Long: -105.5115859<br>Lat: 44.2934426]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.5115859</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.2934426</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.5115859,44.2934426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>G-MON-5 (Jail)</name>
+			<description><![CDATA[Long: -105.5149413<br>Lat: 44.2773146]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.5149413</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.2773146</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.5149413,44.2773146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>G-MON-6 (Sleepy Hollow)</name>
+			<description><![CDATA[Long: -105.4506471<br>Lat: 44.228823]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.4506471</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.228823</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.4506471,44.228823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>G-MON-8 (Bell Road)</name>
+			<description><![CDATA[Long: -105.601002<br>Lat: 44.1984369]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.601002</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.1984369</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.601002,44.1984369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jim Kintz Well</name>
+			<description><![CDATA[Long: -105.6441667<br>Lat: 44.2788889]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.6441667</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.2788889</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.6441667,44.2788889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rawhide Village #2</name>
+			<description><![CDATA[Long: -105.5332581<br>Lat: 44.3890769]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.5332581</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.3890769</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.5332581,44.3890769,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>South Campus No. 1</name>
+			<description><![CDATA[Long: -105.51083<br>Lat: 44.25639]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.51083</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.25639</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.51083,44.25639,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Converse MW.csv</name>
+		<Placemark>
+			<name>Bill #6</name>
+			<description><![CDATA[Long: -105.2594351<br>Lat: 43.1931619]]></description>
+			<styleUrl>#icon-1899-F9A825</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.2594351</value>
+				</Data>
+				<Data name="Lat">
+					<value>43.1931619</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.2594351,43.1931619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Natural Bridge</name>
+			<description><![CDATA[Long: -105.6160985<br>Lat: 42.7384695]]></description>
+			<styleUrl>#icon-1899-F9A825</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.6160985</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.7384695</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.6160985,42.7384695,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>CrookWeston MW.csv</name>
+		<Placemark>
+			<name>USGS M-1</name>
+			<description><![CDATA[Long: -104.64425<br>Lat: 44.92894]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.64425</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.92894</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.64425,44.92894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCMOW-2 (Madison)</name>
+			<description><![CDATA[Long: -104.05705<br>Lat: 44.58197]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.05705</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.58197</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.05705,44.58197,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCMOW-2a (Minnelusa)</name>
+			<description><![CDATA[Long: -104.0569767<br>Lat: 44.5819825]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.0569767</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.5819825</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.0569767,44.5819825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCMOW-5 (Madison)</name>
+			<description><![CDATA[Long: -104.19469<br>Lat: 44.53247]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.19469</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.53247</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.19469,44.53247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCMOW-5a</name>
+			<description><![CDATA[Long: -104.1946152<br>Lat: 44.5324729]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1946152</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.5324729</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1946152,44.5324729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCMOW-6 (Madison)</name>
+			<description><![CDATA[Long: -104.25319<br>Lat: 44.18689]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.25319</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.18689</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.25319,44.18689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCMOW-6a (Minnelusa)</name>
+			<description><![CDATA[Long: -104.2531326<br>Lat: 44.1868341]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.2531326</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.1868341</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.2531326,44.1868341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCMOW-7 (Madison)</name>
+			<description><![CDATA[Long: -104.3875787<br>Lat: 44.3286553]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.3875787</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.3286553</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.3875787,44.3286553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCMOW-8</name>
+			<description><![CDATA[Long: -104.31425<br>Lat: 44.31647]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.31425</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.31647</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.31425,44.31647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vista West No. 2</name>
+			<description><![CDATA[Long: -104.42<br>Lat: 44.4378333]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.42</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.4378333</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.42,44.4378333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weston County No. 1a</name>
+			<description><![CDATA[Long: -104.1315119<br>Lat: 44.0950009]]></description>
+			<styleUrl>#icon-1899-E65100</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1315119</value>
+				</Data>
+				<Data name="Lat">
+					<value>44.0950009</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1315119,44.0950009,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>CrowCreek MW.csv</name>
+		<Placemark>
+			<name>Cemetery #1</name>
+			<description><![CDATA[Long: -104.3698858<br>Lat: 41.042636]]></description>
+			<styleUrl>#icon-1899-AFB42B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.3698858</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.042636</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.3698858,41.042636,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cody Smith #1</name>
+			<description><![CDATA[Long: -104.3827752<br>Lat: 41.0539215]]></description>
+			<styleUrl>#icon-1899-AFB42B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.3827752</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.0539215</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.3827752,41.0539215,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Laramie MW.csv</name>
+		<Placemark>
+			<name>CC Gross</name>
+			<description><![CDATA[Long: -104.1195013<br>Lat: 41.2105764]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1195013</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.2105764</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1195013,41.2105764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Elmer Glantz</name>
+			<description><![CDATA[Long: -104.1207666<br>Lat: 41.1169364]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1207666</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.1169364</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1207666,41.1169364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fire Station #3</name>
+			<description><![CDATA[Long: -104.7593842<br>Lat: 41.141453]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.7593842</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.141453</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.7593842,41.141453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fornstrom White River</name>
+			<description><![CDATA[Long: -104.1060594<br>Lat: 41.3048094]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1060594</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.3048094</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1060594,41.3048094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #1</name>
+			<description><![CDATA[Long: -104.1241368<br>Lat: 41.0163105]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1241368</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.0163105</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1241368,41.0163105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #10</name>
+			<description><![CDATA[Long: -104.8375397<br>Lat: 41.2036994]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.8375397</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.2036994</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.8375397,41.2036994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #11</name>
+			<description><![CDATA[Long: -104.8860374<br>Lat: 41.1420102]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.8860374</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.1420102</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.8860374,41.1420102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #13</name>
+			<description><![CDATA[Long: -104.8806586<br>Lat: 41.1575991]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.8806586</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.1575991</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.8806586,41.1575991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #14</name>
+			<description><![CDATA[Long: -104.8065039<br>Lat: 41.0553982]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.8065039</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.0553982</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.8065039,41.0553982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #16</name>
+			<description><![CDATA[Long: -104.7403727<br>Lat: 41.2035793]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.7403727</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.2035793</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.7403727,41.2035793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #17</name>
+			<description><![CDATA[Long: -104.692685<br>Lat: 41.2027494]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.692685</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.2027494</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.692685,41.2027494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #18</name>
+			<description><![CDATA[Long: -104.5610305<br>Lat: 41.0870436]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.5610305</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.0870436</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.5610305,41.0870436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #2</name>
+			<description><![CDATA[Long: -104.2371158<br>Lat: 41.1725274]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.2371158</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.1725274</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.2371158,41.1725274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #3</name>
+			<description><![CDATA[Long: -104.4074358<br>Lat: 41.1868354]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.4074358</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.1868354</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.4074358,41.1868354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #4</name>
+			<description><![CDATA[Long: -104.3300463<br>Lat: 41.2587386]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.3300463</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.2587386</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.3300463,41.2587386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #5</name>
+			<description><![CDATA[Long: -104.2149246<br>Lat: 41.3600514]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.2149246</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.3600514</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.2149246,41.3600514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #7</name>
+			<description><![CDATA[Long: -104.7644807<br>Lat: 41.2860909]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.7644807</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.2860909</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.7644807,41.2860909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #8</name>
+			<description><![CDATA[Long: -104.7560643<br>Lat: 41.2030443]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.7560643</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.2030443</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.7560643,41.2030443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC #9</name>
+			<description><![CDATA[Long: -104.5980325<br>Lat: 41.1678899]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.5980325</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.1678899</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.5980325,41.1678899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC 6-B</name>
+			<description><![CDATA[Long: -104.3434869<br>Lat: 41.4343578]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.3434869</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.4343578</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.3434869,41.4343578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MX North B-1</name>
+			<description><![CDATA[Long: -104.8993231<br>Lat: 41.4069459]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.8993231</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.4069459</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.8993231,41.4069459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MX West B7</name>
+			<description><![CDATA[Long: -105.0021486<br>Lat: 41.2332042]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.0021486</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.2332042</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.0021486,41.2332042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Scheel WSW #1 WR</name>
+			<description><![CDATA[Long: -104.1698051<br>Lat: 41.317141]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1698051</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.317141</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1698051,41.317141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shatto White River</name>
+			<description><![CDATA[Long: -104.6466754<br>Lat: 41.114457]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.6466754</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.114457</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.6466754,41.114457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>USGS S Albin</name>
+			<description><![CDATA[Long: -104.0921066<br>Lat: 41.3950511]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.0921066</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.3950511</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.0921066,41.3950511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>USGS SE Carpenter</name>
+			<description><![CDATA[Long: -104.2669061<br>Lat: 41.0167201]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.2669061</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.0167201</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.2669061,41.0167201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>USGS SW Albin</name>
+			<description><![CDATA[Long: -104.1378201<br>Lat: 41.3741988]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1378201</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.3741988</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1378201,41.3741988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>USGS SW Carpenter</name>
+			<description><![CDATA[Long: -104.409318<br>Lat: 41.0164175]]></description>
+			<styleUrl>#icon-1899-097138</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.409318</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.0164175</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.409318,41.0164175,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Niobrara MW.csv</name>
+		<Placemark>
+			<name>ETSI-2 Madison</name>
+			<description><![CDATA[Long: -104.30775<br>Lat: 43.07272]]></description>
+			<styleUrl>#icon-1899-1A237E</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.30775</value>
+				</Data>
+				<Data name="Lat">
+					<value>43.07272</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.30775,43.07272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Niobrara Co No. 1</name>
+			<description><![CDATA[Long: -104.3286224<br>Lat: 42.7855699]]></description>
+			<styleUrl>#icon-1899-1A237E</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.3286224</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.7855699</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.3286224,42.7855699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Niobrara Co No. 2</name>
+			<description><![CDATA[Long: -104.4373414<br>Lat: 42.7616453]]></description>
+			<styleUrl>#icon-1899-1A237E</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.4373414</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.7616453</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.4373414,42.7616453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Node</name>
+			<description><![CDATA[Long: -104.3391944<br>Lat: 42.7123889]]></description>
+			<styleUrl>#icon-1899-1A237E</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.3391944</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.7123889</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.3391944,42.7123889,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>NorthGoshen MW.csv</name>
+		<Placemark>
+			<name>Goshen County No. 1</name>
+			<description><![CDATA[Long: -104.151267<br>Lat: 42.480204]]></description>
+			<styleUrl>#icon-1899-1A237E</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.151267</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.480204</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.151267,42.480204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Goshen County No. 2</name>
+			<description><![CDATA[Long: -104.22938<br>Lat: 42.43648]]></description>
+			<styleUrl>#icon-1899-1A237E</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.22938</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.43648</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.22938,42.43648,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prairie Center No. 3</name>
+			<description><![CDATA[Long: -104.1637869<br>Lat: 42.4584901]]></description>
+			<styleUrl>#icon-1899-1A237E</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1637869</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.4584901</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1637869,42.4584901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prairie Center No. 4</name>
+			<description><![CDATA[Long: -104.20325<br>Lat: 42.49217]]></description>
+			<styleUrl>#icon-1899-1A237E</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.20325</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.49217</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.20325,42.49217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prairie Center No. 5</name>
+			<description><![CDATA[Long: -104.20306<br>Lat: 42.59678]]></description>
+			<styleUrl>#icon-1899-1A237E</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.20306</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.59678</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.20306,42.59678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prairie Center No. 6</name>
+			<description><![CDATA[Long: -104.163009<br>Lat: 42.423818]]></description>
+			<styleUrl>#icon-1899-1A237E</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.163009</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.423818</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.163009,42.423818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sandstone No. 1</name>
+			<description><![CDATA[Long: -104.356337<br>Lat: 42.3973385]]></description>
+			<styleUrl>#icon-1899-1A237E</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.356337</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.3973385</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.356337,42.3973385,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Platte MW.csv</name>
+		<Placemark>
+			<name>Cottonwood Creek #1</name>
+			<description><![CDATA[Long: -105.0728898<br>Lat: 42.288997]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.0728898</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.288997</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.0728898,42.288997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Earl Rutherford</name>
+			<description><![CDATA[Long: -104.9628113<br>Lat: 42.2385349]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.9628113</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.2385349</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.9628113,42.2385349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ed Preuit</name>
+			<description><![CDATA[Long: -104.8898867<br>Lat: 42.0432592]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.8898867</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.0432592</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.8898867,42.0432592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ed Wilhelm</name>
+			<description><![CDATA[Long: -104.9283067<br>Lat: 42.1220813]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.9283067</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.1220813</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.9283067,42.1220813,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platte County #1A</name>
+			<description><![CDATA[Long: -104.9845104<br>Lat: 42.0447825]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.9845104</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.0447825</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.9845104,42.0447825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platte County No. 2</name>
+			<description><![CDATA[Long: -104.8835249<br>Lat: 42.089611]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.8835249</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.089611</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.8835249,42.089611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platte County No. 3</name>
+			<description><![CDATA[Long: -104.94815<br>Lat: 42.1293742]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.94815</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.1293742</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.94815,42.1293742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platte County No. 4</name>
+			<description><![CDATA[Long: -104.9482335<br>Lat: 42.15099]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.9482335</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.15099</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.9482335,42.15099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platte County No. 5</name>
+			<description><![CDATA[Long: -104.9666177<br>Lat: 42.1909352]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.9666177</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.1909352</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.9666177,42.1909352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platte County No. 6</name>
+			<description><![CDATA[Long: -105.0009107<br>Lat: 42.144999]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.0009107</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.144999</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.0009107,42.144999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platte County No. 7</name>
+			<description><![CDATA[Long: -105.045832<br>Lat: 42.1036857]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.045832</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.1036857</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.045832,42.1036857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platte County No. 7B</name>
+			<description><![CDATA[Long: -104.9828403<br>Lat: 42.0743409]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.9828403</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.0743409</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.9828403,42.0743409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platte County No. 8</name>
+			<description><![CDATA[Long: -105.0405903<br>Lat: 42.0458454]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.0405903</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.0458454</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.0405903,42.0458454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platte County No. 9</name>
+			<description><![CDATA[Long: -105.0239261<br>Lat: 42.0023889]]></description>
+			<styleUrl>#icon-1899-01579B</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-105.0239261</value>
+				</Data>
+				<Data name="Lat">
+					<value>42.0023889</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.0239261,42.0023889,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SouthGoshen MW.csv</name>
+		<Placemark>
+			<name>Hill Well</name>
+			<description><![CDATA[Long: -104.1054512<br>Lat: 41.6783841]]></description>
+			<styleUrl>#icon-1899-0097A7</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1054512</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.6783841</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1054512,41.6783841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>J Ward</name>
+			<description><![CDATA[Long: -104.2181033<br>Lat: 41.6563632]]></description>
+			<styleUrl>#icon-1899-0097A7</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.2181033</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.6563632</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.2181033,41.6563632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LaGrange #1</name>
+			<description><![CDATA[Long: -104.1717437<br>Lat: 41.6365489]]></description>
+			<styleUrl>#icon-1899-0097A7</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1717437</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.6365489</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1717437,41.6365489,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LaGrange #2</name>
+			<description><![CDATA[Long: -104.1306338<br>Lat: 41.6806801]]></description>
+			<styleUrl>#icon-1899-0097A7</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1306338</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.6806801</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1306338,41.6806801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LaGrange Haystack</name>
+			<description><![CDATA[Long: -104.140613<br>Lat: 41.621104]]></description>
+			<styleUrl>#icon-1899-0097A7</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.140613</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.621104</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.140613,41.621104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>North Well</name>
+			<description><![CDATA[Long: -104.1709206<br>Lat: 41.7048755]]></description>
+			<styleUrl>#icon-1899-0097A7</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1709206</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.7048755</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1709206,41.7048755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE Corner Res</name>
+			<description><![CDATA[Long: -104.1699768<br>Lat: 41.6927613]]></description>
+			<styleUrl>#icon-1899-0097A7</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1699768</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.6927613</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1699768,41.6927613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>South Well</name>
+			<description><![CDATA[Long: -104.1709182<br>Lat: 41.7048517]]></description>
+			<styleUrl>#icon-1899-0097A7</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.1709182</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.7048517</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.1709182,41.7048517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ward’s Yard</name>
+			<description><![CDATA[Long: -104.228167<br>Lat: 41.65533]]></description>
+			<styleUrl>#icon-1899-0097A7</styleUrl>
+			<ExtendedData>
+				<Data name="Long">
+					<value>-104.228167</value>
+				</Data>
+				<Data name="Lat">
+					<value>41.65533</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-104.228167,41.65533,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
