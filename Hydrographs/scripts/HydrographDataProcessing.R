@@ -9,7 +9,21 @@ library(png)
 library(raster)
 library(cowplot)
 library(magick)
+library(googledrive)
+library(googlesheets4)
 
+
+options(
+  gargle_oauth_email = TRUE,
+  gargle_oauth_cache = "./.secrets"
+)
+
+googledrive::drive_auth() 
+gs4_auth(token = drive_token())
+
+construction<-googlesheets4::read_sheet(drive_get(paste0("~/Projects/database/construction"))$id,col_types = 'icdcDccc') %>% tibble()
+location<-googlesheets4::read_sheet(drive_get(paste0("~/Projects/database/location"))$id,col_types = 'c') %>% tibble()
+id_matching<-read.csv("./data/names.csv")
 path<-"O:/Monitor Wells/Website_data/Raw Data and Hydrographs"
 
 files<-list.files(path, recursive = TRUE)
@@ -19,7 +33,7 @@ for (file in files) {
 name<-str_remove(file,".xlsx")
 j<-str_locate_all(name,"/")[[1]][str_count(name,"/"),1]
 name<-str_remove(str_trunc(name,nchar(name)-j+3,"left"),"...")
-
+id_name<-id_matching %>% filter(value==name) %>% dplyr::select(match)
 # deal with sheets misnamed
 sheets <- excel_sheets(file)
 if ("data" %in% sheets) {
@@ -32,17 +46,20 @@ if ("data" %in% sheets) {
 read<-read %>% clean_names()
 if (ncol(read)>5) {next}
 
-
+if (class(read$time_date_1)[1]!=c("POSIXct")) {
 read$time_date_1<-ymd_hms(read$time_date_1)
+}
 read$time_date_1<-as.Date(read$time_date_1)
-read$time_date_4<-ymd_hms(read$time_date_4)
+if (class(read$time_date_4)[1]!=c("POSIXct")) {
+  read$time_date_4<-ymd_hms(read$time_date_4)
+}
 read$time_date_4<-as.Date(read$time_date_4)
+
 field<-read %>% filter(!is.na(time_date_4)) %>% dplyr::select(c(4,5))
 field$measurement_type <- "field"
 recorded<-read %>% dplyr::select(c(1,2)) 
 recorded$measurement_type<-"recorded"
 names(recorded)<-names(field)
-
 
 dat <- as_tibble(rbind(recorded,field))
 
@@ -54,14 +71,15 @@ dat <- dat %>% mutate(measured_water_level_ft=as.numeric(measured_water_level_ft
 cols<-c("black","royalblue3")
 shapes<-c(0,16)
 sized<-c(3.3,1.2)
+selected_location<-location %>% filter(well_name==as.character(id_name))
 
 #  plot
 p <- ggplot(dat, aes(x = time_date_4, y = measured_water_level_ft)) + 
   geom_point(aes(color=measurement_type, shape=measurement_type, size=measurement_type)) + 
   xlab("") +
-  ylab("Depth below measuring point (ft)") +
+  ylab("Depth below ground surface (ft)") +
   labs(title=name, 
-       subtitle = paste0("Station number: 15-73-01dba     Latitude: 41.2975     Longitude: -105.52417 \n Period of record: ",format(min(dat$time_date_4),"%m/%d/%Y")," - ", format(max(dat$time_date_4),"%m/%d/%Y")),
+       subtitle = paste0("Station number: ",selected_location$well_number,"     Latitude: ",selected_location$lat,"     Longitude: ",selected_location$long," \n Period of record: ",format(min(dat$time_date_4),"%m/%d/%Y")," - ", format(max(dat$time_date_4),"%m/%d/%Y")),
        caption = paste0("Date prepared:     ",format(Sys.time(),'%B %d, %Y %H:%M')),
        color = "Measurement type:", 
        shape = "Measurement type:",
@@ -86,7 +104,7 @@ p <- ggplot(dat, aes(x = time_date_4, y = measured_water_level_ft)) +
   scale_color_manual(values=cols, labels=c("Field measurement", "Recorded water level")) + 
   scale_size_manual(values=sized, labels=c("Field measurement", "Recorded water level"))
 
-#p
+p
 
 draw<-ggdraw() +
   draw_plot(p) + 
