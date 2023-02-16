@@ -21,10 +21,10 @@ options(
 googledrive::drive_auth() 
 gs4_auth(token = drive_token())
 
-construction<-googlesheets4::read_sheet(drive_get(paste0("~/Projects/database/construction"))$id,col_types = 'icdcDccc') %>% tibble()
+construction<-googlesheets4::read_sheet(drive_get(paste0("~/Projects/database/construction"))$id,col_types = 'icdcDcccddc') %>% tibble()
 location<-googlesheets4::read_sheet(drive_get(paste0("~/Projects/database/location"))$id,col_types = 'c') %>% tibble()
 id_matching<-read.csv("./data/names.csv")
-path<-"O:/Monitor Wells/Website_data/Raw Data and Hydrographs"
+path<-"O:/Monitor Wells/Website Data/Hydrographs/Excel Hydrographs"
 
 files<-list.files(path, recursive = TRUE)
 files<-files[!str_detect(files,"~")] # remove tildes ~ ghost files
@@ -33,7 +33,7 @@ for (file in files) {
 name<-str_remove(file,".xlsx")
 j<-str_locate_all(name,"/")[[1]][str_count(name,"/"),1]
 name<-str_remove(str_trunc(name,nchar(name)-j+3,"left"),"...")
-id_name<-id_matching %>% filter(value==name) %>% dplyr::select(match)
+key<-id_matching %>% filter(value==name) %>% dplyr::select(id_key)
 # deal with sheets misnamed
 sheets <- excel_sheets(file)
 if ("data" %in% sheets) {
@@ -62,6 +62,7 @@ recorded$measurement_type<-"recorded"
 names(recorded)<-names(field)
 
 dat <- as_tibble(rbind(recorded,field))
+## dat<-dat %>% filter(time_date_4>"2010-01-01")  # optional filter dates
 
 # remove NA measurements
 dat <- dat %>% mutate(measured_water_level_ft=as.numeric(measured_water_level_ft)) %>% filter(!is.na(measured_water_level_ft))
@@ -71,7 +72,7 @@ dat <- dat %>% mutate(measured_water_level_ft=as.numeric(measured_water_level_ft
 cols<-c("black","royalblue3")
 shapes<-c(0,16)
 sized<-c(3.3,1.2)
-selected_location<-location %>% filter(well_name==as.character(id_name))
+selected_location<-location %>% filter(id_key==key$id_key)
 
 #  plot
 p <- ggplot(dat, aes(x = time_date_4, y = measured_water_level_ft)) + 
@@ -99,7 +100,7 @@ p <- ggplot(dat, aes(x = time_date_4, y = measured_water_level_ft)) +
     panel.border = element_rect(color="azure4", fill=NA)
     ) + 
   scale_y_reverse() + 
-  scale_x_date(date_breaks = "5 years", date_labels = "%Y") + 
+  scale_x_date(date_breaks = "1 years", date_labels = "%Y") + 
   scale_shape_manual(values=shapes, labels=c("Field measurement", "Recorded water level")) + 
   scale_color_manual(values=cols, labels=c("Field measurement", "Recorded water level")) + 
   scale_size_manual(values=sized, labels=c("Field measurement", "Recorded water level"))
