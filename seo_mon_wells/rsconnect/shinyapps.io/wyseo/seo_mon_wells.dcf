@@ -1,0 +1,13 @@
+name: seo_mon_wells
+title: seo_mon_wells
+username:
+account: wyseo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8599382
+bundleId: 6972622
+url: https://wyseo.shinyapps.io/seo_mon_wells/
+when: 1679078016.50474
+lastSyncTime: 1679078016.50474
+asMultiple: FALSE
+asStatic: FALSE

@@ -33,16 +33,16 @@ data_query_strings <- data_set_ids |> filter(meas_type %in% c("recorded", "field
 data_query_strings <- data_query_strings[["data_set_id"]] |> URLencode()
 query_order<-data_set_ids |> filter(meas_type %in% c("recorded", "field")) |> dplyr::select(data_set_id, meas_type)
 
-recorded<-read.csv(paste0("https://seoflow.wyo.gov/Export/DataSet?DataSet=",
+recorded<-read_csv(paste0("https://seoflow.wyo.gov/Export/DataSet?DataSet=",
                           data_query_strings[which(query_order$meas_type=="recorded")],
                           "&ExportFormat=csv&Compressed=false&RoundData=False&Unit=&Timezone=0"),
-                                skip=1) |> 
+                                skip=4, col_types = c("T","d")) |> 
                                 clean_names() |> 
                                 tibble()
-field<-read.csv(paste0("https://seoflow.wyo.gov/Export/DataSet?DataSet=",
+field<-read_csv(paste0("https://seoflow.wyo.gov/Export/DataSet?DataSet=",
                        data_query_strings[which(query_order$meas_type=="field")],
                        "&ExportFormat=csv&Compressed=false&RoundData=False&Unit=&Timezone=0"),
-                                skip=1) |> 
+                                skip=4, col_types = c("T","d")) |> 
                                 clean_names() |>
                                 tibble()
 

@@ -1,8 +1,5 @@
-library(googledrive)
-library(googlesheets4)
-load("./data/seo_mon_wells.Rda")
+library(janitor)
+library(dplyr)
+library(readr)
 
-options(
-  gargle_oauth_cache = ".secrets",
-  gargle_oauth_email = TRUE
-)
+
